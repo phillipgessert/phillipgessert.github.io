@@ -30,7 +30,7 @@ Finished files are provided as print-ready PDF.
 | 40,001--75,000 | $95 | $150 |
 | 75,001--150,000 | $150 | $250 |
 | 150,000--250,000 | $195 | $350 |
-| 250,000+ or multi-volume box sets | Contact for Quote | Contact for Quote |
+| 250k+ or multi-volume box sets | Contact for Quote | Contact for Quote |
 
 ### Non-fiction
 

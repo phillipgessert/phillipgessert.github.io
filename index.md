@@ -1,6 +1,7 @@
 ---
 layout: page
 ---
+![alt text](img/me.jpg "Logo Title Text 1")
 
 I’m Phillip Gessert; and I’m a book designer, typesetter and print/ebook formatter in Amarillo, TX. I began building books full time in 2011, and am especially passionate about page typography. I pride myself on building books to the highest standard of quality, both aesthetically and functionally.
 
