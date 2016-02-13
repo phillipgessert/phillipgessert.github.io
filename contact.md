@@ -6,4 +6,4 @@ permalink: /Contact/
 
 The best way to contact me is via [email](phillip@gessertbooks.com). I am very responsive and typically reply within one working day.
 
-I do not discuss project details by phone, IM or Skype, no exceptions, please don't insist.
+I do not discuss project details by phone, IM or Skype. No exceptions, please don't insist.

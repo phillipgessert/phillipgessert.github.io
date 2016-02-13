@@ -43,9 +43,9 @@ Additional fees apply for correction of content errors (typos, capitalization, g
 No additional fees will apply for corrections of formatting errors on my part.
 
 - Rush service: $50 per 100,000 words.
-- Content edits: $1 per edit*. 
+- Content edits: $1 per edit [^1]. 
 - Images (provided by client): $20 per 10 images.
 - Images (created or sourced by me): Contact for quote.
 - Tables and Lists: $20 per 10.
 
-*Your first ten edits are free. A $25 secondary project fee applies for edits needed after delivery.
+[^1]: Your first ten edits are free. A $25 secondary project fee applies for edits needed after delivery.
