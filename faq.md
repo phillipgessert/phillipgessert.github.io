@@ -26,11 +26,11 @@ Rush processing is available for $50.
  
 Yes—I can use your provided images for $20 per 10 images, or I can create custom images for you. The fee for custom images will depend on complexity; for more information, just ask.
 
-#Can you lay out my non-fiction book?
+# Can you lay out my non-fiction book?
 
 Yes—feel free to send a copy of your manuscript, I’ll be glad to quote for the work.
 
-#Do you design book covers?
+# Do you design book covers?
 
 Yes—for work samples, check out behance.net/phillipgessert. If my style suits you, I’ll be glad to provide a quote for your project. Just ask.
 
