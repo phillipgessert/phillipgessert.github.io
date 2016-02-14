@@ -53,6 +53,6 @@ If you’d like to update your back matter (for example, to update an “Also By
 **I do not** upload finished files to your author accounts, because access to your accounts reveals too much of your sensitive information to me. That information may include banking or other private details that should not be exposed to a service provider like myself. However, I’m glad to advise as best I can.
 
 # How can I reach you?
-I can also be reached by **email at pgessert@gessertbooks.com**.
+I can also be reached by **email at pgessert@gessertbooks.com**1.
 
 Business Hours: Monday through Friday, 9am–5pm CST. US Holidays observed.
