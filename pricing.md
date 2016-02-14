@@ -30,7 +30,7 @@ Finished files are provided as print-ready PDF.
 | 40,001--75,000 | $95 | $150 |
 | 75,001--150,000 | $150 | $250 |
 | 150,000--250,000 | $195 | $350 |
-| 250k+ or multi-volume box sets | Contact for Quote | Contact for Quote |
+| 250k+ [^1] | Contact for Quote | Contact for Quote |
 
 ### Non-fiction
 
@@ -43,9 +43,11 @@ Additional fees apply for correction of content errors (typos, capitalization, g
 No additional fees will apply for corrections of formatting errors on my part.
 
 - Rush service: $50 per 100,000 words.
-- Content edits: $1 per edit [^1]. 
+- Content edits: $1 per edit [^2]. 
 - Images (provided by client): $20 per 10 images.
 - Images (created or sourced by me): Contact for quote.
 - Tables and Lists: $20 per 10.
 
-[^1]: Your first ten edits are free. A $25 secondary project fee applies for edits needed after delivery.
+[^1]: Or multi-volume box sets.
+
+[^2]: Your first ten edits are free. A $25 secondary project fee applies for edits needed after delivery.

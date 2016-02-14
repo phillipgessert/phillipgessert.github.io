@@ -24,15 +24,15 @@ Rush processing is available for $50.
 
 # Can I use images for section breaks, chapter heads, etc?
  
-**Yes**—I can use your provided images for $20 per 10 images, or I can create custom images for you. The fee for custom images will depend on complexity; for more information, just ask.
+**Yes**. I can use your provided images for $20 per 10 images, or I can create custom images for you. The fee for custom images will depend on complexity; for more information, just ask.
 
 # Can you lay out my non-fiction book?
 
-**Yes**—feel free to send a copy of your manuscript, I’ll be glad to quote for the work.
+**Yes**. Feel free to send a copy of your manuscript, I’ll be glad to quote for the work.
 
 # Do you design book covers?
 
-**Yes**—for work samples, check out behance.net/phillipgessert. If my style suits you, I’ll be glad to provide a quote for your project. Just ask.
+**Yes**. For work samples, check out behance.net/phillipgessert. If my style suits you, I’ll be glad to provide a quote for your project. Just ask.
 
 # Will you proofread my book, or make corrections as you work?
 
@@ -42,7 +42,7 @@ The adjustments I make are all typographical in nature. I may replace three full
 
 For live projects, I include up to ten text adjustments for no cost. So if you discover a typo after I’ve already begun your project, I’ll adjust ten of them for you for free.
 
-After ten of them, I’m glad to continue making your text adjustments at **$1** apiece.
+After ten of them, I’m glad to continue making your text adjustments at **$1 apiece**.
 
 And when the project has been completed, if you choose to make further adjustments, they’ll cost **$25 per book plus $1 per edit**.
 
@@ -53,6 +53,7 @@ If you’d like to update your back matter (for example, to update an “Also By
 **I do not** upload finished files to your author accounts, because access to your accounts reveals too much of your sensitive information to me. That information may include banking or other private details that should not be exposed to a service provider like myself. However, I’m glad to advise as best I can.
 
 # How can I reach you?
-I can also be reached by **email at pgessert@gessertbooks.com**1.
+I can be reached by **email at phillip@gessertbooks.com**.
 
-Business Hours: Monday through Friday, 9am–5pm CST. US Holidays observed.
+# Business Hours
+Monday through Friday, 9am–5pm CST. US Holidays observed.

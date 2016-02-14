@@ -1,5 +1,18 @@
-table, th, td {
-   border: 1px solid black;
+// My variables
+$secondary-color: #FF0000;
+$tertiary-color: #C00505;
+
+table {
+	border-collapse: collapse;
+	width: 100%;
+	margin-bottom: 1em;
+}
+
+
+th, td {
+   padding-top: .5em;
+   padding-bottom: .5em;
+   border-bottom: 1px solid black;
 }
 
 .avatar {
@@ -13,8 +26,30 @@ table, th, td {
 	background-repeat: no-repeat;
 	padding-left: 2.5em;
 	margin-left: -2.5em;
-	padding-bottom: .5em;
-	margin-bottom: -.5em;
+	padding-bottom: .25em;
+	margin-bottom: -.25em;
 	//font-variant: small-caps;
 	//text-transform: lowercase;
 }
+
+.site-header {
+	padding-top: .25em;
+}
+
+.footnotes {
+	border-top: 1px solid black;
+	//padding-top: 1em;
+	ol{
+		font-size: .85em;
+		margin-top: 1em;
+	}
+}
+
+sup {font-size: .65em;}
+p {
+	text-align: justify;
+	hyphens: auto;
+	text-justify: inter-word;
+}
+
+strong {color: $tertiary-color;}
