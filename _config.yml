@@ -15,5 +15,7 @@ url: "http://gessertbooks.com" # the base hostname & protocol for your site
 twitter_username: phillipgessert
 github_username:  phillipgessert
 
+gems: [jekyll-typogrify]
+
 # Build settings
 markdown: kramdown
