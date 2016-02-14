@@ -67,3 +67,31 @@ hr::before {
 hr {
 	border: none;
 }
+
+.sidebar {
+	font-family: Futura, sans-serif;
+	color: darkgrey;
+	h1 {
+		font-size: .75em;
+		text-transform: uppercase;
+		letter-spacing: .125em;
+	}
+	li h2 a{
+		font-size: .375em;
+		text-transform: uppercase;
+		letter-spacing: .125em;
+		color: darkgrey;
+		margin-bottom: 0;
+	}
+	width: 10%;
+	float: left;
+	display: none;
+}
+
+.post-list > li {
+	margin-bottom: .5em !important;
+}
+
+.post-content {
+	padding-right: -25% !important;
+}

@@ -1,9 +1,14 @@
+// My variables
+$secondary-color: #FF0000;
+$tertiary-color: #C00505;
+
+
 /**
  * Site header
  */
 .site-header {
-    border-top: 5px solid $grey-color-dark;
-    border-bottom: 1px solid $grey-color-light;
+    border-top: 5px solid $tertiary-color;
+    border-bottom: 1px solid $secondary-color;
     min-height: 56px;
 
     // Positioning context for the mobile navigation icon
