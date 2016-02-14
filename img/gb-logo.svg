@@ -1,0 +1,29 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 600 600" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
+    <g transform="matrix(1,0,0,1,-4,0)">
+        <rect x="160.304" y="94.707" width="287.509" height="287.047" style="fill:rgb(255,0,0);"/>
+    </g>
+    <g transform="matrix(0.0503973,0,0,0.786622,435.735,48.7494)">
+        <rect x="160.304" y="94.707" width="287.509" height="287.047" style="fill:rgb(192,5,5);"/>
+    </g>
+    <g transform="matrix(0.0503973,0,0,0.786622,133.736,48.7494)">
+        <rect x="160.304" y="94.707" width="287.509" height="287.047" style="fill:rgb(192,5,5);"/>
+    </g>
+    <g transform="matrix(-1.20826,3.88606e-16,-3.21625e-16,-1,488.915,909.93)">
+        <path d="M275.281,409.199L275.281,528.176L156.304,528.176L275.281,409.199Z" style="fill:rgb(255,0,0);"/>
+    </g>
+    <g transform="matrix(-1.20826,3.88606e-16,-3.21625e-16,-1,632.67,909.93)">
+        <path d="M156.304,409.199L275.281,528.176L156.304,528.176L156.304,409.199Z" style="fill:rgb(255,0,0);"/>
+    </g>
+    <g>
+        <rect x="187.101" y="123.248" width="225.798" height="225.798" style="fill:rgb(235,235,235);"/>
+        <path d="M417.899,354.045L182.101,354.045L182.101,118.248L417.899,118.248L417.899,354.045ZM192.101,128.248L192.101,344.045L407.899,344.045L407.899,128.248L192.101,128.248Z" style="fill:rgb(192,5,5);"/>
+    </g>
+    <g transform="matrix(0.95738,0,0,0.95738,12.7859,10.0645)">
+        <path d="M433.113,369.26L166.887,369.26L166.887,103.034L433.113,103.034L433.113,369.26ZM177.332,113.479L177.332,358.815L422.668,358.815L422.668,113.479L177.332,113.479Z" style="fill:rgb(235,235,235);"/>
+    </g>
+    <g transform="matrix(22.3824,0,0,22.3824,-4434.54,-5147.23)">
+        <text x="207.179px" y="244.67px" style="font-family:'Georgia';font-size:12px;fill:rgb(192,5,5);stroke-width:0.04px;stroke:rgb(192,5,5);">G</text>
+    </g>
+</svg>
