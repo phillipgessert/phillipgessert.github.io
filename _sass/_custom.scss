@@ -11,5 +11,10 @@ table, th, td {
 .site-title{
 	background-image: url("/img/gb-logo.svg");
 	background-repeat: no-repeat;
-	padding-left: 2em;
+	padding-left: 2.5em;
+	margin-left: -2.5em;
+	padding-bottom: .5em;
+	margin-bottom: -.5em
+	font-variant: small-caps !important;
+	text-transform: uppercase !important;
 }
