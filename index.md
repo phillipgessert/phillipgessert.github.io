@@ -11,6 +11,7 @@ I also provide PDF files suitable for print. I’m happy to build to Createspace
 
 Custom book covers are also available.
 
+---
 >Phillip and I have worked together for a few years now and with each project he has devoted himself to the task and will not quit until the job is done to satisfaction. Very personable and detailed-oriented, I recommend him highly!
  
 Kwasi Konadu, Diasporic Africa Press
@@ -44,11 +45,11 @@ Patsy Rae Dawson, patsyraedawson.com
 Natalie Bright, nataliebright.com
 
 > ...words cannot describe the brilliant experience i had in the cooperation with my graphic designer, Phillip Gessert. 
-
+>
 > Purely a cyperspace encounter between Copenhagen and Phillip's office in Texas, it proved to be one of a most rewarding working relationship. Through countless emails back and forth, he found the right solutions to every question. All in all, a privilege to work together with such a professional, trustworthy and personable designer. 
-
+>
 > I was originally recommended to Phillip by my editor in California. Again proving how it is possible to combine forces through the net... and achieve excellent results. 
-
+>
 > There is no question in my mind, that I will approach him again for my next work; it was a true pleasure!
  
 Linda Ruth Horowitz, whilethesandswhisper.com
@@ -58,9 +59,9 @@ Linda Ruth Horowitz, whilethesandswhisper.com
 David A. Kalis, davidakalis.com
 
 > Whether he’s doing my covers or my interiors, Phillip Gessert never disappoints. In fact, he usually surprises—in a good way. His cover for my book BloodLight took my original idea and punted it into another dimension. I’ve lost count of the number of compliments I’ve received on it—even people who didn’t like the book rave about the cover! 
- 
+>
 > He’s just as good with interiors.  How many other designers out there take time to read a book from beginning to end—prose or poetry—then try to find just the right font to match the content and theme? 
- 
+> 
 > Incredibly creative in his own right, Phillip is always receptive to the writer’s ideas and gives them the last word—he’s in no way overbearing. Just an overall fantastic designer for writers who want their books to make an impact from first sight to last page.
  
 Harambee K. Grey-Sun, nextpoet.net
