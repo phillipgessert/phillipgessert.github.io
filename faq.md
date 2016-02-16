@@ -4,11 +4,13 @@ title: FAQ
 permalink: /FAQ/
 ---
 
+# What is the usual process?
+
 # What file formats do you accept?
 
 I prefer **Microsoft Word** format, but can also accept Apple Pages, Google Docs, RTF, Markdown, or most any other text format. 
 
-# What file formats will I receive?
+# What file formats do you provide?
 
 I provide fully tested and validated **ePub** and **MOBI** files for ebook, and print-ready **PDF** for print. 
 
@@ -22,7 +24,7 @@ Most books are completed within **a week**, though this can vary based on comple
 
 Rush processing is available for $50.
 
-# Can I use images for section breaks, chapter heads, etc?
+# Can we use images for section breaks, chapter heads, etc?
  
 **Yes**. I can use your provided images for $20 per 10 images, or I can create custom images for you. The fee for custom images will depend on complexity; for more information, just ask.
 
@@ -36,7 +38,7 @@ Rush processing is available for $50.
 
 # Will you proofread my book, or make corrections as you work?
 
-The adjustments I make are all typographical in nature. I may replace three full-stops with an ellipsis character, for example—or replace two hyphens with an em-dash. However, any typos or grammatical errors in your source manuscript will remain in the finished layout, because **I don’t modify your content** (unless you ask me to: additional fees apply).
+I don't proofread, but I do make certain typographical adjustments. I may replace three full-stops with an ellipsis character, for example—or replace two hyphens with an em-dash. However, any typos or grammatical errors in your source manuscript will remain in the finished layout, because **I don’t modify your content** (unless you ask me to: additional fees apply).
 
 # What happens if I discover my typos after you’ve completed my layout? Or while you’re completing it?
 

@@ -95,3 +95,20 @@ hr {
 .post-content {
 	padding-right: -25% !important;
 }
+
+blockquote p:last-child {
+    text-align: right;
+}
+
+blockquote p:last-child::before {
+    content: "—";
+    display: inline-block;
+}
+
+blockquote {
+	margin: 2em !important;
+	p{
+		margin-bottom: .5em;
+
+	}
+}
