@@ -44,7 +44,7 @@ No additional fees will apply for corrections of formatting errors on my part.
 
 - Rush service: $50 per 100,000 words.
 - Content edits: $1 per edit [^3]. 
-- Images (provided by client): $20 per 10 images.
+- Images (provided by you): $20 per 10 images.
 - Images (created or sourced by me): Contact for quote.
 - Tables and Lists: $20 per 10.
 

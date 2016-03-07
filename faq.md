@@ -57,5 +57,7 @@ If you’d like to update your back matter (for example, to update an “Also By
 # How can I reach you?
 I can be reached by **email at phillip@gessertbooks.com**.
 
+---
+
 # Business Hours
 Monday through Friday, 9am–5pm CST. US Holidays observed.
