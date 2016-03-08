@@ -69,10 +69,10 @@ Custom book covers are also available.
 
 ---
 
-I am very interested in academic works, cultural works, or works relating to preservation. Please do contact me if your project is at all historical in nature.
+I am especially interested in academic works, cultural works, or works relating to preservation. Please do contact me if your project is at all historical in nature.
 
-I appreciate, but do not require, a credit line. A credit line typically appears in your book's front matter, and takes the form of...
+I appreciate, but do not require, a credit line. A credit line typically appears in your book's front matter, near your publication details, and takes the form of...
 
 *Book formatted for print and ebook by Phillip Gessert* (*gessertbooks.com*)
 
-...this will only appear in your book's front matter if you place it there. I will not add this to your front matter without your permission.
+...this will only appear in your book if you place it in your manuscript. I will not add this to your book without your permission.

@@ -6,6 +6,8 @@ permalink: /FAQ/
 
 # What is the usual process?
 
+what on earth
+
 # What file formats do you accept?
 
 I prefer **Microsoft Word** format, but can also accept Apple Pages, Google Docs, RTF, Markdown, or most any other text format. 

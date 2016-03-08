@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Black Terrorist"
-date:   2016-02-13 14:59:05 -0600
+date:   2016-01-18 12:00:00 -0600
 categories: book design
 ---
 
