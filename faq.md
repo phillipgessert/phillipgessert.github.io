@@ -6,7 +6,7 @@ permalink: /FAQ/
 
 # What is the usual process?
 
-what on earth
+Lorem ipsum
 
 # What file formats do you accept?
 
