@@ -26,6 +26,13 @@ th, td {
 	margin-bottom: 2em;
 }
 
+.dropcap{
+	height: 4.2em;
+	float: left;
+	padding-right: .25em;
+	margin-top: -.25em;
+}
+
 .site-title{
 	background-image: url("/img/gb-logo.svg");
 	background-repeat: no-repeat;
@@ -55,7 +62,7 @@ p {
 	text-align: justify;
 	hyphens: auto;
 	-webkit-hyphens: auto;
-   -moz-hyphens: auto;
+    -moz-hyphens: auto;
     -ms-hyphens: auto;
 	text-justify: inter-word;
 }
@@ -115,4 +122,15 @@ blockquote {
 		margin-bottom: .5em;
 
 	}
+}
+
+iframe {
+	width: 100%;
+	height: 500px;
+	margin-top: 1em;
+}
+
+.calendar {
+	border: 1px solid black;
+	padding: 1em;
 }
