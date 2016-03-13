@@ -6,7 +6,15 @@ permalink: /FAQ/
 
 # What is the usual process?
 
-Lorem ipsum
+1. I ask for your manuscript, quote for cost and turn time, and collect your deposit via PayPal.
+
+2. I build a version of your document for structure. Headings vs body, etc.
+
+3. I style according to that structure. Font choices, etc.
+
+4. You let me know about any edits you may like. 
+
+5. I provide print-ready PDF and fully-validated ePub & MOBI, and collect the balance for the project.
 
 # What file formats do you accept?
 
@@ -36,7 +44,7 @@ Rush processing is available for $50.
 
 # Do you design book covers?
 
-**Yes**. For work samples, check out behance.net/phillipgessert. If my style suits you, I’ll be glad to provide a quote for your project. Just ask.
+**Yes**. For work samples, check out [behance.net/phillipgessert](http://behance.net/phillipgessert). If my style suits you, I’ll be glad to provide a quote for your project. Just ask.
 
 # Will you proofread my book, or make corrections as you work?
 
