@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Cost
+title: Pricing
 permalink: /cost/
 ---
 

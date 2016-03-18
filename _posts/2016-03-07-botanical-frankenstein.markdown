@@ -1,6 +1,16 @@
 ---
 title: Botanical Frankenstein
 layout: post
+tags: 
+- dropcaps
+- analysis
+- typography
+- literature
+- ebook
+- cover
+categories:
+- ebook
+- cover
 ---
 
 

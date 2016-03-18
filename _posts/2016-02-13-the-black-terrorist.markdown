@@ -2,7 +2,10 @@
 layout: post
 title:  "The Black Terrorist"
 date:   2016-01-18 12:00:00 -0600
-categories: book design
+tags: 
+- historical fiction
+- cover
+- typography
 ---
 
 I've completed a full book design for an English edition of The Black Terrorist, a historical novel about the French Resistance and colonial contribution to it. After escaping from German forces in World War II, Addi Ba  encounters members of the French Resistance and leads a Resistance network.

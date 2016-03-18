@@ -231,3 +231,31 @@ iframe {
 		}
 	}
 }
+
+.toc {
+	border: 1px solid black;
+	padding: 1em;
+	width: 75%;
+	margin-left: 12.5%;
+	text-align: center;
+	p{text-align: center;}
+	p.tags{
+		line-height: .85em;
+		hyphens: none !important;
+		margin-bottom: 0;
+	}
+	h2 {
+		margin-top: 0;
+	}
+	span {
+			color: $secondary-color;
+			//float: right;
+			font-style: normal;
+			font-size: .85em;
+			text-transform: lowercase;
+			font-variant: small-caps;
+			letter-spacing: .125em;
+			//margin-top: .15em;
+			//clear: both;
+			}
+}
