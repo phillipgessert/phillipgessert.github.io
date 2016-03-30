@@ -6,15 +6,13 @@ permalink: /FAQ/
 
 # What is the usual process?
 
-1. I ask for your manuscript, quote for cost and turn time, and collect your deposit via PayPal.
+1. I ask for your manuscript, quote for cost and turn time, and collect your deposit via PayPal. I send you a brief survey that will help me understand your book and style it appropriately.
 
-2. I build a version of your document for structure. Headings vs body, etc.
+2. I create a full draft for your book, in whichever formats you've chosen, and send you a copy for review.
 
-3. I style according to that structure. Font choices, etc.
+3. We work together through any revisions or style tweaks you might like.
 
-4. You let me know about any edits you may like. 
-
-5. I provide print-ready PDF and fully-validated ePub & MOBI, and collect the balance for the project.
+4. I provide production-ready files, and collect the balance for the project.
 
 # What file formats do you accept?
 
@@ -32,7 +30,7 @@ Ideally, paragraphs and headings will be defined with named Styles, and the sour
 
 Most books are completed within **a week**, though this can vary based on complexity and project schedule. If yours is an especially complex format, you’ll receive regular updates to progress on your project.
 
-Rush processing is available for $50.
+I offer rush processing for $40 per 80,000 words; but depending on my current production schedule, rush processing may not always be available. Just ask.
 
 # Can we use images for section breaks, chapter heads, etc?
  
@@ -40,7 +38,7 @@ Rush processing is available for $50.
 
 # Can you lay out my non-fiction book?
 
-**Yes**. Feel free to send a copy of your manuscript, I’ll be glad to quote for the work.
+**Yes**, and I love to do it. Feel free to send a copy of your manuscript, I’ll be glad to quote for the work.
 
 # Do you design book covers?
 
@@ -56,10 +54,10 @@ For live projects, I include up to ten text adjustments for no cost. So if you d
 
 After ten of them, I’m glad to continue making your text adjustments at **$1 apiece**.
 
-And when the project has been completed, if you choose to make further adjustments, they’ll cost **$25 per book plus $1 per edit**.
+And when the project has been completed, if you choose to make further adjustments, they’ll cost **$20 per format plus $1 per edit**.
 
 # Will you make occasional updates to my back matter, as needed?
-If you’d like to update your back matter (for example, to update an “Also By…” section), the fee for the adjustment is **$25 per book**.
+If you’d like to update your back matter (for example, to update an “Also By…” section), the fee for the adjustment is **$20 per book**.
 
 # Will you upload my files for me?
 **I do not** upload finished files to your author accounts, because access to your accounts reveals too much of your sensitive information to me. That information may include banking or other private details that should not be exposed to a service provider like myself. However, I’m glad to advise as best I can.
@@ -67,7 +65,5 @@ If you’d like to update your back matter (for example, to update an “Also By
 # How can I reach you?
 I can be reached by **email at phillip@gessertbooks.com**.
 
----
-
-# Business Hours
+# What are your business hours?
 Monday through Friday, 9am–5pm CST. US Holidays observed.

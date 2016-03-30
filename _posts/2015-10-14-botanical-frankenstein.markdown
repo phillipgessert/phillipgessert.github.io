@@ -2,58 +2,48 @@
 title: Botanical Frankenstein
 layout: post
 tags: 
-- dropcaps
-- analysis
-- typography
-- literature
-- ebook
-- cover
-categories:
-- ebook
-- cover
+- ebook formatting
+- drop caps
+- cover design
 ---
 
-
-Botanical Frankenstein
-======================
-
-> In Eastern lands they talk in flow’rs\
->  And they tell in a garland their loves and cares;
+> In Eastern lands they talk in flow’rs  
+> And they tell in a garland their loves and cares;
 >
-> Each blossom that blooms in their garden bowr’s,\
+> Each blossom that blooms in their garden bowr’s,  
 >  On its leaves a mystic language bears.
 >
-> The rose is a sign of joy and love,\
+> The rose is a sign of joy and love,  
 >  Young blushing love in its earliest dawn,
 >
-> And the mildness that suits the gentle dove,\
+> And the mildness that suits the gentle dove,  
 >  From the myrtle’s snowy flow’rs is drawn.
 >
-> Innocence gleams in the lily’s bell,\
+> Innocence gleams in the lily’s bell,  
 >  Pure as the heart in its native heaven.
 >
-> Fame’s bright star and glory’s swell\
+> Fame’s bright star and glory’s swell  
 >  By the glossy leaf of the bay are given.
 >
-> The silent, soft and humble heart,\
+> The silent, soft and humble heart,  
 >  In the violet’s hidden sweetness breathes,
 >
-> And the tender soul that cannot part,\
+> And the tender soul that cannot part,  
 >  In a twine of evergreen fondly wreathes.
 >
-> The cypress that daily shades the grave,\
+> The cypress that daily shades the grave,  
 >  Is sorrow that moans her bitter lot,
 >
-> And faith that a thousand ills can brave,\
+> And faith that a thousand ills can brave,  
 >  Speaks in thy blue leaves “forget-me-not”.
 >
-> Then gather a wreath from the garden bowers,\
+> Then gather a wreath from the garden bowers,  
 >  And tell the wish of thy heart in flowers.
-
-> James Gates Percival\
+>
+> James Gates Percival  
 >  The Language of Flowers
 
-------------------------------------------------------------------------
+---
 
 I really love examining books. I’m not an English scholar or anything
 like that, but I do enjoy figuring the different themes and ideas in a
@@ -68,12 +58,16 @@ as near to it as I could by working an interesting design for it. I
 hoped other folks might enjoy reading it for the first time, like I did,
 and especially so close to Halloween.
 
-------------------------------------------------------------------------
+---
 
-![Botanical Frankenstein: Book Cover](img/frankenTitle.png)
-The Book Cover.
+<figure>
+	<img src="/img/portfolio/botanical-frankenstein/cover.png" alt="">
+	<figcaption>
+		<p>The Book Cover.</p>
+	</figcaption>
+</figure>
 
-------------------------------------------------------------------------
+--- 
 
 I began by reading the excellent Norton Critical Edition of
 *Frankenstein*, along with all the great essays included in that volume.
@@ -131,12 +125,16 @@ it strays from the book much, much more; but in this case it feels like
 interpretation. Would definitely recommend it to anyone looking for a
 cool take on the story.
 
-------------------------------------------------------------------------
+---
 
-![Botanical Frankenstein: Book Cover](img/frankenFrontis.gif)
-The Title Page.
+<figure>
+	<img src="/img/portfolio/botanical-frankenstein/title.gif" alt="">
+	<figcaption>
+		<p>The Title Page.</p>
+	</figcaption>
+</figure>
 
-------------------------------------------------------------------------
+---
 
 I went through two general design concepts before landing on the right
 one. First, I wanted to take general subjects from each chapter and
@@ -164,42 +162,42 @@ mean much.
 
 Then I happened on a poem by James Gates Percival.
 
-------------------------------------------------------------------------
+--- 
 
-> In Eastern lands they talk in flow’rs\
+> In Eastern lands they talk in flow’rs  
 >  And they tell in a garland their loves and cares;
 >
-> Each blossom that blooms in their garden bowr’s,\
+> Each blossom that blooms in their garden bowr’s,  
 >  On its leaves a mystic language bears.
 >
-> The rose is a sign of joy and love,\
+> The rose is a sign of joy and love,  
 >  Young blushing love in its earliest dawn,
 >
-> And the mildness that suits the gentle dove,\
+> And the mildness that suits the gentle dove,  
 >  From the myrtle’s snowy flow’rs is drawn.
 >
-> Innocence gleams in the lily’s bell,\
+> Innocence gleams in the lily’s bell,  
 >  Pure as the heart in its native heaven.
 >
-> Fame’s bright star and glory’s swell\
+> Fame’s bright star and glory’s swell  
 >  By the glossy leaf of the bay are given.
 >
-> The silent, soft and humble heart,\
+> The silent, soft and humble heart,  
 >  In the violet’s hidden sweetness breathes,
 >
-> And the tender soul that cannot part,\
+> And the tender soul that cannot part,  
 >  In a twine of evergreen fondly wreathes.
 >
-> The cypress that daily shades the grave,\
+> The cypress that daily shades the grave,  
 >  Is sorrow that moans her bitter lot,
 >
-> And faith that a thousand ills can brave,\
+> And faith that a thousand ills can brave,  
 >  Speaks in thy blue leaves “forget-me-not”.
 >
-> Then gather a wreath from the garden bowers,\
+> Then gather a wreath from the garden bowers,  
 >  And tell the wish of thy heart in flowers.
 
-------------------------------------------------------------------------
+---
 
 I was really struck by this because so many of the flowers and plants he
 describes suit the book perfectly. I really had no need for any flowers
@@ -207,93 +205,161 @@ besides the ones he listed here, and I could use them to represent
 characters or relationships within the book. This poem became the seed
 for the entire design, and I’ve used it to further frame the work.
 
-------------------------------------------------------------------------
+---
 
 The Flowers
 -----------
 
-![Rose](img/1-rose.png)
-The rose is a sign of joy and love,\
- Young blushing love in its earliest dawn,
+<figure>
+	<img class="small-img" src="/img/portfolio/botanical-frankenstein/rose.png" alt="">
+	<figcaption>
+		<p>The rose is a sign of joy and love,<br />  
+ 		Young blushing love in its earliest dawn,</p>
+	</figcaption>
+</figure>
 
 I used the rose to represent non-romantic love, specifically close
 childhood friendship, and I placed this flower wherever Clerval figured
 heavily.
 
-![Myrtle](img/2-myrtle.png)
-And the mildness that suits the gentle dove,\
- From the myrtle’s snowy flow’rs is drawn.
+<figure>
+	<img class="small-img" src="/img/portfolio/botanical-frankenstein/myrtle.png" alt="">
+	<figcaption>
+		<p>And the mildness that suits the gentle dove,<br />
+ From the myrtle’s snowy flow’rs is drawn.</p>
+	</figcaption>
+</figure>
 
 I used the myrtle to represent the DeLaceys at their cottage, because
 their life felt so idyllic.
 
-![Lily](img/3-lily.png)
-Innocence gleams in the lily’s bell,\
- Pure as the heart in its native heaven.
+<figure>
+	<img class="small-img" src="/img/portfolio/botanical-frankenstein/lily.png" alt="">
+	<figcaption>
+		<p>Innocence gleams in the lily’s bell,<br />  
+ Pure as the heart in its native heaven.</p>
+	</figcaption>
+</figure>
 
 I used the lily to tie different threads in Justine’s story together.
 
-![Bay](img/4-bay.png)
-Fame’s bright star and glory’s swell\
- By the glossy leaf of the bay are given.
+<figure>
+	<img class="small-img" src="/img/portfolio/botanical-frankenstein/bay.png" alt="">
+	<figcaption>
+		<p>Fame’s bright star and glory’s swell  <br />
+ By the glossy leaf of the bay are given.</p>
+	</figcaption>
+</figure>
 
 I used the bay leaf for early parts of the Doctor’s story. I also used
 it for Walton.
 
-![Violet](img/5-violet.png)
-The silent, soft and humble heart,\
- In the violet’s hidden sweetness breathes,
+<figure>
+	<img class="small-img"  src="/img/portfolio/botanical-frankenstein/violet.png" alt="">
+	<figcaption>
+		<p>The silent, soft and humble heart,  <br />
+ In the violet’s hidden sweetness breathes,</p>
+	</figcaption>
+</figure>
+
 
 I used the violet for the way the DeLacey’s backstory humbled them.
 
-![Evergreen](img/6-evergreen.png)
-And the tender soul that cannot part,\
- In a twine of evergreen fondly wreathes.
+<figure>
+	<img class="small-img"  src="/img/portfolio/botanical-frankenstein/pine.png" alt="">
+	<figcaption>
+		<p>And the tender soul that cannot part,  <br />
+ In a twine of evergreen fondly wreathes.</p>
+	</figcaption>
+</figure>
 
 I used a pine cone for the Creature’s early story, to represent his
 desire for connection.
 
-![Cypress](img/7-cypress.png)
-The cypress that daily shades the grave,\
- Is sorrow that moans her bitter lot,
+<figure>
+	<img class="small-img"  src="/img/portfolio/botanical-frankenstein/cypress.png" alt="">
+	<figcaption>
+		<p>The cypress that daily shades the grave,  <br />
+ Is sorrow that moans her bitter lot,</p>
+	</figcaption>
+</figure>
+
+
 
 But by the story’s end, I used the Cypress’ cone for both the Creature
 and the Doctor.
 
-![Forget-me-not](img/8-fmn.png)
-And faith that a thousand ills can brave,\
- Speaks in thy blue leaves “forget-me-not”.
+<figure>
+	<img class="small-img"  src="/img/portfolio/botanical-frankenstein/f-m-n.png" alt="">
+	<figcaption>
+		<p>And faith that a thousand ills can brave,  <br />
+ Speaks in thy blue leaves “forget-me-not”.</p>
+	</figcaption>
+</figure>
+
+
 
 I used the Forget-Me-Not for romantic love.
 
-------------------------------------------------------------------------
+---
 
 The Caps
 --------
 
-![Dropcaps](img/frankenCaps.png)
-I chose Georgia as the base, because it’s the nearest to
+<figure>
+	<img src="/img/portfolio/botanical-frankenstein/caps.png" alt="">
+	<figcaption>
+		<p>I chose Georgia as the base, because it’s the nearest to
 period-appropriate and is available on many devices without the need for
-font embedding.
+font embedding.</p>
+	</figcaption>
+</figure>
 
-------------------------------------------------------------------------
+
+
+
+---
 
 The Pages
 ---------
 
-![iBooks on OS X](img/ibooks1.png)
-iBooks on OS X
+<figure>
+	<img src="/img/portfolio/botanical-frankenstein/ibooks-osx.png" alt="">
+	<figcaption>
+		<p>iBooks on OS X</p>
+	</figcaption>
+</figure>
 
-![Kindle on OS X](img/kindle1.png)
-Kindle on OS X
 
-![iBooks on iOS](img/ibooks2.png)
-iBooks on iOS
 
-![Kindle in garden](img/kindle2.jpg)
-Kindle e-ink
+<figure>
+	<img src="/img/portfolio/botanical-frankenstein/kindle-osx.png" alt="">
+	<figcaption>
+		<p>Kindle on OS X</p>
+	</figcaption>
+</figure>
 
-------------------------------------------------------------------------
+
+
+<figure>
+	<img src="/img/portfolio/botanical-frankenstein/ibooks-ios.png" alt="">
+	<figcaption>
+		<p>iBooks on iOS</p>
+	</figcaption>
+</figure>
+
+
+
+<figure>
+	<img src="/img/portfolio/botanical-frankenstein/kindle5.jpg" alt="">
+	<figcaption>
+		<p>Kindle e-ink</p>
+	</figcaption>
+</figure>
+
+
+
+---
 
 I really loved this book, and could easily go on and on about it. It’s
 one of those works that you can rework in your mind to mean a million
@@ -315,22 +381,22 @@ time, please don’t hesitate to shoot them a link—or if you read it and
 you want to talk to me about it, you can find me
 [@phillipgessert](http://www.twitter.com/phillipgessert) on Twitter.
 
-------------------------------------------------------------------------
+---
 
-> Awhile he grasps at Science, with the strong,\
->  Fierce spirit of ambition, when his car\
->  O’er fortune’s field of blood is borne along,\
->  Drawn by the wildly rushing steeds of war,\
->  And hurrying on in quest of Fame’s bright star,\
->  That shines through smoke and dust and wounds and gore;\
->  Justice and mercy cannot raise a bar\
->  Across the torrent of his wrath, its roar\
+> Awhile he grasps at Science, with the strong,  
+>  Fierce spirit of ambition, when his car  
+>  O’er fortune’s field of blood is borne along,  
+>  Drawn by the wildly rushing steeds of war,  
+>  And hurrying on in quest of Fame’s bright star,  
+>  That shines through smoke and dust and wounds and gore;  
+>  Justice and mercy cannot raise a bar  
+>  Across the torrent of his wrath, its roar  
 >  Drives virtue, love and peace affrighted from its shore.
-
-> James Gates Percival\
+>
+> James Gates Percival  
 >  From Prometheus, A Poem
 
-------------------------------------------------------------------------
+---
 
 *For feedback or comments on this project, please use this [feedback
 form](https://docs.google.com/forms/d/1Nja2J--RYD6X63wFp4PxIs_Bw7CUvxVJyWNAWvsQRyg/viewform?usp=send_form)*.
