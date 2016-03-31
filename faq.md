@@ -1,7 +1,7 @@
 ---
 layout: page
 title: FAQ
-permalink: /FAQ/
+permalink: /faq/
 ---
 
 # What is the usual process?
