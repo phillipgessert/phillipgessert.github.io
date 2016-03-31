@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Pricing
-permalink: /cost/
+permalink: /pricing/
 ---
 
 # Book Formatting
