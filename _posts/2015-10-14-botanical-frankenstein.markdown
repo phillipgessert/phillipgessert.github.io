@@ -398,7 +398,7 @@ you want to talk to me about it, you can find me
 
 ---
 
-You can download my edition of *Frankenstein* for free: [ePub](/downloads/botanicalFrankenstein-101215.epub) | [MOBI](/downloads/botanicalFrankenstein-101215.mobi)
+You can download my edition of *Frankenstein* for free: [ePub](/downloads/botanicalFrankenstein-101215.epub), [MOBI](/downloads/botanicalFrankenstein-101215.mobi)
 
 *For feedback or comments on this project, please use this [feedback
 form](https://docs.google.com/forms/d/1Nja2J--RYD6X63wFp4PxIs_Bw7CUvxVJyWNAWvsQRyg/viewform?usp=send_form)*.
