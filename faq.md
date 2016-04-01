@@ -28,7 +28,7 @@ Ideally, paragraphs and headings will be defined with named Styles, and the sour
 
 # What is your typical turn time?
 
-Most books are completed within **a week**, though this can vary based on complexity and project schedule. If yours is an especially complex format, you’ll receive regular updates to progress on your project.
+Most books are completed within **2 weeks**, though this can vary based on complexity and project schedule. If yours is an especially complex format, you’ll receive regular updates to progress on your project.
 
 I offer rush processing for $40 per 80,000 words; but depending on my current production schedule, rush processing may not always be available. Just ask.
 
