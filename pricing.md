@@ -26,9 +26,9 @@ Finished files are provided as print-ready PDF.
 
 | Word Count | Ebook **or** Print (1 format) | Ebook **and** Print (bundle) |
 |:- |:-|:-|
-| Under 80k | $120 | $155 |
-| 80,001--160,000 | $140 | $175 |
-| 160,001--240,000 | $160 | $195 |
+| Under 80k | $140 | $180 |
+| 80,001--160,000 | $180 | $220 |
+| 160,001--240,000 | $200 | $240 |
 | Over 240k [^2] | Contact for Quote | Contact for Quote |
 
 ### Non-fiction & Verse
