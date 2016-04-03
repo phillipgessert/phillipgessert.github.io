@@ -20,7 +20,7 @@ All print layouts are built to traditional bookmaking conventions, and include f
 
 Finished files are provided as print-ready PDF.
 
-## Pricing
+## Pricing 
 
 ### Fiction [^1]
 
@@ -47,8 +47,11 @@ No additional fees will apply for corrections of formatting errors on my part.
 - Images (created or sourced by me): Contact for quote.
 - Tables and Lists: $20 per 10.
 
+
+Prices are current as of 4/1/16 and are subject to change.
+
 [^1]: Additional fees may apply for atypical fiction layouts, such as epistolary works.
 
-[^2]: Or omnibus, anthology, or complex formatting.
+[^2]: Or omnibus, anthology, or multi-book box set.
 
 [^3]: Your first ten edits are free. An additional $20 per format, per round of edits applies for edits needed after delivery. You will not be charged for corrections to errors I've made.

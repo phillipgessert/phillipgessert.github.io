@@ -6,7 +6,7 @@ permalink: /faq/
 
 # What is the usual process?
 
-1. I ask for your manuscript, quote for cost and turn time, and collect your deposit via PayPal. I send you a brief survey that will help me understand your book and style it appropriately.
+1. I ask for your manuscript, quote for cost and turn time, and collect your deposit. I send you a brief questionnaire that will help me understand your book and style it appropriately.
 
 2. I create a full draft for your book, in whichever formats you've chosen, and send you a copy for review.
 
