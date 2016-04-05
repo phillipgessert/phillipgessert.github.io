@@ -22,6 +22,6 @@ I don't discuss project details by phone, IM or Skype. No exceptions, please don
 	<input type="hidden" name="_subject" value="New submission!" />
 	<input type="text" name="_gotcha" style="display:none" />
 	<input type="text" name="_format" value="plain" style="display:none" />
-	<input type="hidden" name="_next" value="//gessertbooks.com/success.html" />
+	<input type="hidden" name="_next" value="//gessertbooks.com/success/" />
 	<input type="submit" class="button" value="Contact Me">
 </form>
