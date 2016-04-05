@@ -292,3 +292,44 @@ figure {
 		margin-top: 2em;
 	}
 }
+
+// Form
+
+form {
+	border: 1px solid black;
+	padding: 1em;
+	//font-size: $small-font-size / 2;
+	margin: 2em auto;
+	max-width: 20em;
+	label, input, textarea{
+		display: block;
+		margin-top: .5em;
+		width: 100%;
+		
+		
+		padding: 0;
+	}
+input {
+	height: 2em;
+	border: 1px solid darkgrey;
+	padding: .125em;
+}
+
+	textarea {
+		height: 15em;
+		border: 1px solid darkgrey;
+		padding: .125em;
+	}
+	
+}
+
+input[type="submit"]{
+		max-width: 15em;
+		background-color: white;
+		margin-top: .5em;
+		float-right: right;
+		font-family: $base-font-family;
+		font-size: $small-font-size;
+		margin-top: 1em;
+		border: 1px solid black;
+	}
