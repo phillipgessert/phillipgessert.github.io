@@ -64,14 +64,14 @@ th, td {
 }
 
 sup {font-size: .65em;}
-p {
+/*p {
 	text-align: justify;
 	hyphens: auto;
 	-webkit-hyphens: auto;
     -moz-hyphens: auto;
     -ms-hyphens: auto;
 	text-justify: inter-word;
-}
+}*/
 
 strong {color: $tertiary-color;}
 
@@ -333,3 +333,8 @@ input[type="submit"]{
 		margin-top: 1em;
 		border: 1px solid black;
 	}
+.footer-col{
+	p{
+		text-align: left;
+	}
+}
