@@ -1,4 +1,3 @@
-source 'https://rubygems.org'
-gem 'jekyll'
-gem 'typogruby'
-gem 'jekyll-typogrify'
+group :jekyll_plugins do
+   gem "jekyll-typogrify"
+end
