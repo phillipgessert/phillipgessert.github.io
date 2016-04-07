@@ -13,6 +13,14 @@ I also provide PDF files suitable for print. I’m happy to build to Createspace
 Custom book covers are also available.
 
 ---
+
+### Why Choose Me?
+
+I pride myself in finding high-quality, low cost solutions to common design problems. I aim to find a good nexus between quality and cost. This means I am not the cheapest book designer, but I do deliver the best bang for your buck.
+
+I do not treat your book as a rote technical task. I am a designer, first and foremost, and strive to create tasteful and elegant designs.
+
+---
 >Phillip and I have worked together for a few years now and with each project he has devoted himself to the task and will not quit until the job is done to satisfaction. Very personable and detailed-oriented, I recommend him highly!
 > 
 > Kwasi Konadu, Diasporic Africa Press
