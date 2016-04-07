@@ -41,8 +41,8 @@ Additional fees apply for correction of content errors (typos, capitalization, g
 
 No additional fees will apply for corrections of formatting errors on my part.
 
-- Rush service: $40 per 80,000 words.
-- Content edits: $1 per individual edit.[^3] 
+- Rush service: $40 per 80,000 words. [^3]
+- Content edits: $1 per individual edit.[^4] 
 - Images (provided by you): $20 per 10 images.
 - Images (created or sourced by me): Contact for quote.
 - Tables and Lists: $20 per 10.
@@ -54,4 +54,6 @@ Prices are current as of 4/1/16 and are subject to change.
 
 [^2]: Or omnibus, anthology, or multi-book box set.
 
-[^3]: Your first ten edits are free. An additional $20 per format, per round of edits applies for edits needed after delivery. You will not be charged for corrections to errors I've made.
+[^3]: Rush service may not always be available based on overall production schedule.
+
+[^4]: Your first ten edits are free. An additional $20 per format, per round of edits applies for edits needed after delivery. You will not be charged for corrections to errors I've made.
