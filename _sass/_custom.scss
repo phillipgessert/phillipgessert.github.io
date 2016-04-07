@@ -343,4 +343,7 @@ input[type="submit"]{
 
 .caps {
 	text-transform: lowercase;
+	font-variant: small-caps;
+	letter-spacing: .125em;
+	font-size: 1.1em;
 }
