@@ -62,11 +62,11 @@ If you’d like to update your back matter (for example, to update an “Also By
 # Will you upload my files for me?
 **I do not** upload finished files to your author accounts, because access to your accounts reveals too much of your sensitive information to me. That information may include banking or other private details that should not be exposed to a service provider like myself. However, I’m glad to advise as best I can.
 
-# Are you interested in collaboration / partnership / equity / royalty arrangements?
+# Are you interested in collaboration, partnership, equity, or royalties?
 
 I am not interested in arrangements like these at this time.
 
-# I'm a designer / agency / publisher. Can I outsource my formatting to you in bulk?
+# I'm a designer, agency, or publisher. Can I outsource my formatting to you in bulk?
 
 I am happy to handle your formatting. Please note though that I do not deliver to or correspond with your client, only to you.
 
