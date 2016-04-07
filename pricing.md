@@ -6,7 +6,7 @@ permalink: /pricing/
 
 # Book Formatting
 
-Prices assume a manuscript in clean Word DOCX format. Additional fees apply for cleanup of the source Word DOC, if cleanup is necessary. Please see below. I ask a 50% deposit via PayPal when the project begins.
+Prices assume a manuscript in clean Word DOCX format. Additional fees apply for cleanup of the source Word DOC, if cleanup is necessary. Please see below. I ask a 50% deposit when the project begins.
 
 ## Ebooks
 
