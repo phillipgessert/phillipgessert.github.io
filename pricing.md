@@ -54,6 +54,6 @@ Prices are current as of 4/1/16 and are subject to change.
 
 [^2]: Or omnibus, anthology, or multi-book box set.
 
-[^3]: Rush service may not always be available based on overall production schedule.
+[^3]: Rush service availability is based on overall production schedule.
 
 [^4]: Your first ten edits are free. An additional $20 per format, per round of edits applies for edits needed after delivery. You will not be charged for corrections to errors I've made.
