@@ -21,6 +21,11 @@ I pride myself in finding high-quality, low cost solutions to common design prob
 I do not treat your book as a rote technical task. I am a designer, first and foremost, and strive to create tasteful and elegant designs.
 
 ---
+
+>Phillip is a pure delight to work with. He's meticulous, professional, punctual, and highly capable. He's met my exacting demands time and time again, even when under pressure of timeline and budget. He's my only choice when it comes to laying out a book, and I plan on using him for many more projects to come.
+>
+> Ben Dutter, Sigil Stone Publishing
+
 >Phillip and I have worked together for a few years now and with each project he has devoted himself to the task and will not quit until the job is done to satisfaction. Very personable and detailed-oriented, I recommend him highly!
 > 
 > Kwasi Konadu, Diasporic Africa Press
