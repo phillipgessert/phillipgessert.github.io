@@ -400,4 +400,4 @@ you want to talk to me about it, you can find me
 
 You can download my edition of *Frankenstein* for free: <a href="https://goo.gl/RORv8J" target="_blank">ePub</a>, <a href="https://goo.gl/gFm37f" target="_blank">MOBI</a>
 
-*For feedback or comments on this project, please use this [feedback <a href="http://goo.gl/forms/6pgBqfcG9p" target="_blank">feedback form</a>.*
+*For feedback or comments on this project, please use this <a href="http://goo.gl/forms/6pgBqfcG9p" target="_blank">feedback form</a>.*
