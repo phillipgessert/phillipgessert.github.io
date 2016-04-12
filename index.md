@@ -49,10 +49,6 @@ I do not treat your book as a rote technical task. I am a designer, first and fo
 > 
 > Patsy Rae Dawson, patsyraedawson.com
 
-> Phillip brought unique and creative ideas for my new eBook cover design, Gone Never Forgotten. His professionalism proved he’s willing to listen and tweak ideas best suited for that particular project. It was an easy process and I’m thrilled with the results.
-> 
-> Natalie Bright, nataliebright.com
-
 > ...words cannot describe the brilliant experience i had in the cooperation with my graphic designer, Phillip Gessert. 
 >
 > Purely a cyperspace encounter between Copenhagen and Phillip's office in Texas, it proved to be one of a most rewarding working relationship. Through countless emails back and forth, he found the right solutions to every question. All in all, a privilege to work together with such a professional, trustworthy and personable designer. 
