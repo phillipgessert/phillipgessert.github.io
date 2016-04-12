@@ -23,10 +23,6 @@ $tertiary-color: #C00505;
 	}
 }
 
-.caps {
-	color: green;
-}
-
 table {
 	border-collapse: collapse;
 	width: 100%;
@@ -142,6 +138,9 @@ blockquote {
 	p{
 		margin-bottom: .5em;
 
+	}
+	em{
+		font-style: normal;
 	}
 }
 
@@ -360,5 +359,5 @@ input[type="submit"]{
 	text-transform: lowercase;
 	font-variant: small-caps;
 	letter-spacing: .125em;
-	font-size: 1.1em;
+	font-size: 1.125em;
 }

@@ -25,11 +25,11 @@ I do not treat your book as a rote technical task. I am a designer, first and fo
 > 
 > Kwasi Konadu, Diasporic Africa Press
 
->Phillip is the miracle worker every author dreams of when it comes to creativity, patience, understanding and collaboration, efficiency and delivery on a book design. He has full command of the design process and is one of the most reliable professionals I’ve worked with. His passion for his work and superhuman turn around time make him an even more exceptional designer. It has been a great experience and delight to have Phillip design my book Desert Mojito, and I look forward to working with him again and again.
+>Phillip is the miracle worker every author dreams of when it comes to creativity, patience, understanding and collaboration, efficiency and delivery on a book design. He has full command of the design process and is one of the most reliable professionals I’ve worked with. His passion for his work and superhuman turn around time make him an even more exceptional designer. It has been a great experience and delight to have Phillip design my book *Desert Mojito*, and I look forward to working with him again and again.
 > 
 > Nazli Ghassemi, desertmojito.com
 
-> Phillip brought unique and creative ideas for my new eBook cover design, Gone Never Forgotten. His professionalism proved he’s willing to listen and tweak ideas best suited for that particular project. It was an easy process and I’m thrilled with the results.
+> Phillip brought unique and creative ideas for my new eBook cover design, *Gone Never Forgotten*. His professionalism proved he’s willing to listen and tweak ideas best suited for that particular project. It was an easy process and I’m thrilled with the results.
 > 
 > Natalie Bright, nataliebright.com
 
@@ -41,17 +41,13 @@ I do not treat your book as a rote technical task. I am a designer, first and fo
 > 
 > The Pass in Review (via Twitter)
 
-> I retained Phillip to design the front and back cover and the interior of my first novel, Saving the Karamazovs. He listened to the suggestions from my editor, my publicist, and me and developed several ideas that would capture the theme that I wanted to convey. Phillip is very easy to work with. In addition to being very creative, he is both patient and responsive. I was very satisfied with both the process and the final product.
+> I retained Phillip to design the front and back cover and the interior of my first novel, *Saving the Karamazovs*. He listened to the suggestions from my editor, my publicist, and me and developed several ideas that would capture the theme that I wanted to convey. Phillip is very easy to work with. In addition to being very creative, he is both patient and responsive. I was very satisfied with both the process and the final product.
 > 
 > Gary Goldstick, ghgoldstick.com
 
 > The best business decision I ever made was to hire Phillip to design and brand my book covers. The second best decision I ever made was to totally trust his instincts. I wanted a totally modern and updated look. He went beyond and took the design into the future. I highly recommend him to all my writing and publishing peers who thank me profusely for introducing them to Phillip.
 > 
 > Patsy Rae Dawson, patsyraedawson.com
-
-> Phillip brought unique and creative ideas for my new eBook cover design, Gone Never Forgotten. His professionalism proved he’s willing to listen and tweak ideas best suited for that particular project. It was an easy process and I’m thrilled with the results.
-> 
-> Natalie Bright, nataliebright.com
 
 > ...words cannot describe the brilliant experience i had in the cooperation with my graphic designer, Phillip Gessert. 
 >
@@ -67,7 +63,7 @@ I do not treat your book as a rote technical task. I am a designer, first and fo
 > 
 > David A. Kalis, davidakalis.com
 
-> Whether he’s doing my covers or my interiors, Phillip Gessert never disappoints. In fact, he usually surprises—in a good way. His cover for my book BloodLight took my original idea and punted it into another dimension. I’ve lost count of the number of compliments I’ve received on it—even people who didn’t like the book rave about the cover! 
+> Whether he’s doing my covers or my interiors, Phillip Gessert never disappoints. In fact, he usually surprises—in a good way. His cover for my book *BloodLight* took my original idea and punted it into another dimension. I’ve lost count of the number of compliments I’ve received on it—even people who didn’t like the book rave about the cover! 
 >
 > He’s just as good with interiors.  How many other designers out there take time to read a book from beginning to end—prose or poetry—then try to find just the right font to match the content and theme? 
 > 
