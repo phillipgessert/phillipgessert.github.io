@@ -23,6 +23,13 @@ $tertiary-color: #C00505;
 	}
 }
 
+//mailchimp
+
+form p{
+	font-size: $small-font-size;
+	font-style: italic;
+}
+
 .caps {
 	color: green;
 }
@@ -352,6 +359,13 @@ input[type="submit"]{
 	p{
 		text-align: left;
 	}
+}
+
+h4 {
+	text-transform: lowercase;
+	font-size: $small-font-size;
+	font-variant: small-caps;
+	letter-spacing: .125em;
 }
 
 // typogruby

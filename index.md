@@ -16,9 +16,21 @@ Custom book covers are also available.
 
 ### Why Choose Me?
 
+#### Value
+
 I pride myself in finding high-quality, low cost solutions to common design problems. I aim to find a good nexus between quality and cost. This means I am not the cheapest book designer, but I do deliver the best bang for your buck.
 
+#### Quality
+
 I do not treat your book as a rote technical task. I am a designer, first and foremost, and strive to create tasteful and elegant designs.
+
+#### Honesty
+
+I aim to be candid and frank with you about your project, alert you to potential issues as quickly as I can, and never obscure anything about the process. This means I immediately alert you to anything that could possibly affect your project. There may be occasional false alarms, but I think it is better to be safe than sorry.
+
+#### Tenacity
+
+I work tirelessly to correct any issues you may encounter. If you have any sort of problem with your files, at any time, I will do my level best to help. 
 
 ---
 
@@ -38,7 +50,7 @@ I do not treat your book as a rote technical task. I am a designer, first and fo
 > 
 > Natalie Bright, nataliebright.com
 
-> Working with Phillip was great - he gave me high quality work and was a pleasure to interact with. Will certainly hire him again when the opportunity presents itself!
+> Working with Phillip was great---he gave me high quality work and was a pleasure to interact with. Will certainly hire him again when the opportunity presents itself!
 > 
 > Ryan Wilcox, The Freelancer Collective
  
@@ -85,3 +97,4 @@ I appreciate, but do not require, a credit line. A credit line typically appears
 *Book formatted for print and ebook by Phillip Gessert* (*gessertbooks.com*)
 
 ...this will only appear in your book if you place it in your manuscript. I will not add this to your book without your permission.
+
