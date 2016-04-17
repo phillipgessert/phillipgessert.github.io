@@ -18,7 +18,7 @@ Custom book covers are also available.
 
 #### Value
 
-I pride myself in finding high-quality, low cost solutions to common design problems. I aim to find a good nexus between quality and cost. This means I am not the cheapest book designer, but I do deliver the best bang for your buck.
+I pride myself in finding high-quality, low cost solutions to common design problems. I aim to find a good nexus between beauty and price. This means I am not the cheapest book designer, but I do deliver the best bang for your buck.
 
 #### Quality
 
