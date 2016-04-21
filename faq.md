@@ -76,5 +76,8 @@ I can be reached by **email at phillip@gessertbooks.com**.
 # Why can't I phone you?
 I don't handle work over the phone, because I seldom handle tasks all in one shot, and tend to plan your project into my overall production schedule based on scope.
 
+# Will you use Asana, Basecamp,  Slack,  Trello, etc. for our project?
+**No.** Because I work with a wide variety of clients, and each have their own preferred project management tool, I narrow down to the one channel most everyone shares: email. This allows me to manage the entire production schedule more efficiently and accurately. 
+
 # What are your business hours?
 Monday through Friday, 9am–5pm CST. US Holidays observed.
