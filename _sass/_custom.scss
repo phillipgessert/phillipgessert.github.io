@@ -362,10 +362,11 @@ input[type="submit"]{
 }
 
 h4 {
-	text-transform: lowercase;
-	font-size: $small-font-size;
-	font-variant: small-caps;
-	letter-spacing: .125em;
+	//text-transform: lowercase;
+	//font-size: $small-font-size;
+	//font-variant: small-caps;
+	//letter-spacing: .125em;
+	font-style: italic;
 }
 
 // typogruby
