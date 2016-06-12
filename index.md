@@ -16,9 +16,21 @@ Custom book covers are also available.
 
 ### Why Choose Me?
 
-I pride myself in finding high-quality, low cost solutions to common design problems. I aim to find a good nexus between quality and cost. This means I am not the cheapest book designer, but I do deliver the best bang for your buck.
+#### Value
+
+I pride myself in finding high-quality, low cost solutions to common design problems. I aim to find a good nexus between beauty and price. This means I am not the cheapest book designer, but I do deliver the best bang for your buck.
+
+#### Quality
 
 I do not treat your book as a rote technical task. I am a designer, first and foremost, and strive to create tasteful and elegant designs.
+
+#### Honesty
+
+I aim to be candid and frank with you about your project, alert you to potential issues as quickly as I can, and never obscure anything about the process. This means I immediately alert you to anything that could possibly affect your project. There may be occasional false alarms, but I think it is better to be safe than sorry.
+
+#### Tenacity
+
+I work tirelessly to correct any issues you may encounter. If you have any sort of problem with your files, at any time, I will do my level best to help. 
 
 ---
 
@@ -38,7 +50,7 @@ I do not treat your book as a rote technical task. I am a designer, first and fo
 > 
 > Natalie Bright, nataliebright.com
 
-> Working with Phillip was great - he gave me high quality work and was a pleasure to interact with. Will certainly hire him again when the opportunity presents itself!
+> Working with Phillip was great---he gave me high quality work and was a pleasure to interact with. Will certainly hire him again when the opportunity presents itself!
 > 
 > Ryan Wilcox, The Freelancer Collective
  
@@ -53,10 +65,6 @@ I do not treat your book as a rote technical task. I am a designer, first and fo
 > The best business decision I ever made was to hire Phillip to design and brand my book covers. The second best decision I ever made was to totally trust his instincts. I wanted a totally modern and updated look. He went beyond and took the design into the future. I highly recommend him to all my writing and publishing peers who thank me profusely for introducing them to Phillip.
 > 
 > Patsy Rae Dawson, patsyraedawson.com
-
-> Phillip brought unique and creative ideas for my new eBook cover design, Gone Never Forgotten. His professionalism proved he’s willing to listen and tweak ideas best suited for that particular project. It was an easy process and I’m thrilled with the results.
-> 
-> Natalie Bright, nataliebright.com
 
 > ...words cannot describe the brilliant experience i had in the cooperation with my graphic designer, Phillip Gessert. 
 >
@@ -89,3 +97,4 @@ I appreciate, but do not require, a credit line. A credit line typically appears
 *Book formatted for print and ebook by Phillip Gessert* (*gessertbooks.com*)
 
 ...this will only appear in your book if you place it in your manuscript. I will not add this to your book without your permission.
+
