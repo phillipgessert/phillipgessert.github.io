@@ -25,5 +25,3 @@ I don't discuss project details by phone, IM or Skype. No exceptions, please don
 	<input type="hidden" name="_next" value="http://www.gessertbooks.com/success/" />
 	<input type="submit" class="button" value="Contact Me">
 </form>
-
-Contact form ver. 061216
