@@ -45,12 +45,12 @@ This book was a real treat to lay out, because it included such a wide variety o
 
 <figure>
 	<img src="/img/portfolio/eisensteins-monster/em-footnotes.png" alt="pp 342-343">
-	<figcaption><p>(Spread) Footnotes exist in many chapters, and some are very structured and complex.</p></figcaption>
+	<figcaption><p>Footnotes exist in many chapters, and some are very structured and complex.</p></figcaption>
 </figure>
 
 <figure>
 	<img src="/img/portfolio/eisensteins-monster/em-log.png" alt="pp 388-389">
-	<figcaption><p>(Spread) A late chapter is formatted like a log or journal, and I made a number of adjustments to reflect that style.</p></figcaption>
+	<figcaption><p>A late chapter is formatted like a log or journal, and I made a number of adjustments to reflect that style.</p></figcaption>
 </figure>
 
 <figure>
@@ -65,17 +65,17 @@ This book was a real treat to lay out, because it included such a wide variety o
 
 <figure>
 	<img src="/img/portfolio/eisensteins-monster/em-dialogue.png" alt="p 484-485">
-	<figcaption><p>(Spread) Toward the end of the book, a number of shorter pieces are assembled, and they've got a variety of formatting styles as well. This is an extended dialogue. </p></figcaption>
+	<figcaption><p>Toward the end of the book, a number of shorter pieces are assembled, and they've got a variety of formatting styles as well. This is an extended dialogue. </p></figcaption>
 </figure>
 
 <figure>
 	<img src="/img/portfolio/eisensteins-monster/em-script.png" alt="p 494-495">
-	<figcaption><p>(Spread) And here we've got a transition into something like a script format.</p></figcaption>
+	<figcaption><p>And here we've got a transition into something like a script format.</p></figcaption>
 </figure>
 
 <figure>
 	<img src="/img/portfolio/eisensteins-monster/em-comic.png" alt="p 502-503 or 510-511">
-	<figcaption><p>(Spread) This is a text-only interpretation of the pages of a comic book. It also includes nested footnotes.</p></figcaption>
+	<figcaption><p>This is a text-only interpretation of the pages of a comic book. It also includes nested footnotes.</p></figcaption>
 </figure>
 
 <figure>
