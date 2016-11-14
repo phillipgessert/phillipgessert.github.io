@@ -30,12 +30,12 @@ This book was a real treat to lay out, because it included such a wide variety o
 
 <figure>
 	<img src="/img/portfolio/eisensteins-monster/em-chapter-opener-strikethrough.png" alt="The Title Page">
-	<figcaption><p>Chapter openers. Strikethrough is used in several sections of the book.</p></figcaption>
+	<figcaption><p>Chapter openers and strikethrough text.</p></figcaption>
 </figure>
 
 <figure>
 	<img src="/img/portfolio/eisensteins-monster/em-japanese.png" alt="p 268">
-	<figcaption><p>One of the chapters in the book required text in Japanese.</p></figcaption>
+	<figcaption><p>One of the chapters in the book required Japanese text.</p></figcaption>
 </figure>
 
 <figure>
