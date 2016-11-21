@@ -12,8 +12,9 @@ description: > # this means to ignore newlines until "baseurl:"
   Book design, typesetting, and typography in Amarillo, Texas.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://gessertbooks.com" # the base hostname & protocol for your site
-twitter_username: phillipgessert
+twitter_username: gessertbooks
 github_username:  phillipgessert
+facebook_username: gessertbooks
 
 # gems: [jekyll-typogrify]
 
