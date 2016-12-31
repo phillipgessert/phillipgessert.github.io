@@ -14,7 +14,7 @@ Custom book covers are also available.
 
 ---
 
-### Why Choose Me?
+Why Choose Me?
 
 #### Value
 
