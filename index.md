@@ -13,7 +13,6 @@ I also provide PDF files suitable for print. I’m happy to build to Createspace
 Custom book covers are also available.
 
 ---
-### Why Choose Me?
 
 #### Value
 
