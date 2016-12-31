@@ -3,7 +3,7 @@ layout: page
 permalink: /pricing-detail/
 ---
 
-Detailed Pricing
+# Detailed Pricing
 
 This page is meant to clarify pricing details. You may have been linked to this page by me via email, if we are discussing your project. It's a publicly accessible page, though, so if you've found it on your own, please feel free to use it to get a general idea for your project's pricing---but I recommend contacting me with your manuscript so I can help. 
 
