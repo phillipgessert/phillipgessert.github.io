@@ -13,6 +13,7 @@ I also provide PDF files suitable for print. I’m happy to build to Createspace
 Custom book covers are also available.
 
 ---
+### Why Choose Me?
 
 #### Value
 
@@ -34,7 +35,7 @@ I work tirelessly to correct any issues you may encounter. If you have any sort 
 
 >What impressed me the most about Phillip was his commitment to the project. Not only did he read the novel---which already puts him in a rare class of designer---but he rose to the myriad difficulties of the project's design---each chapter more challenging than the last--with the care, personal investment and attention to detail as if the book were his own.
 >
->A.V. Bach, Eisenstein's Monster 
+> A.V. Bach, Eisenstein's Monster 
 
 >Phillip is a pure delight to work with. He's meticulous, professional, punctual, and highly capable. He's met my exacting demands time and time again, even when under pressure of timeline and budget. He's my only choice when it comes to laying out a book, and I plan on using him for many more projects to come.
 >
