@@ -5,4 +5,4 @@ permalink: /success/
 
 # Success
 
-Thank you for your message. I typically reply within one working day. 
+Thank you for your message. I typically reply within one working day.
