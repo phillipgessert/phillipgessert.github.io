@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Gessert Books | Book Design in Texas
 ---
 
 <img src="img/me.jpg" class="avatar">

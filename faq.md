@@ -5,6 +5,10 @@ menu-title: FAQ
 permalink: /faq/
 ---
 
+<header class="post-header">
+    <h1 class="post-title">FAQ</h1>
+  </header>
+
 # What is the usual process?
 
 1. I ask for your manuscript, quote for cost and turn time, and collect your deposit. I send you a brief questionnaire that will help me understand your book and style it appropriately.
