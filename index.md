@@ -1,6 +1,5 @@
 ---
 layout: page
-title: foo
 ---
 
 <img src="img/me.jpg" class="avatar">
@@ -15,7 +14,7 @@ Custom book covers are also available.
 
 ---
 
-### Why Choose Me?
+
 
 #### Value
 
