@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Pricing
+menu-title: Pricing
 permalink: /pricing/
 ---
 

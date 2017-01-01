@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Contact
+menu-title: Contact
 permalink: /contact/
 ---
 The best way to contact me is by [email](mailto:phillip@gessertbooks.com). I'm very responsive and usually reply within one working day.
