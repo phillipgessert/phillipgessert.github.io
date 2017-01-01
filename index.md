@@ -1,5 +1,6 @@
 ---
 layout: page
+title: null
 ---
 
 <img src="img/me.jpg" class="avatar">
