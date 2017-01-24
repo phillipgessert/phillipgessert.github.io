@@ -1,5 +1,5 @@
 ---
-title: Art of Manliness
+title: Art of Manliness Pocket Guides
 layout: post
 tags: 
 - print layout
