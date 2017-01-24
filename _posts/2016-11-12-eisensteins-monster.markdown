@@ -92,6 +92,12 @@ This book was a real treat to lay out, because it included such a wide variety o
 	
 </figure>
 
+---
+
+>What impressed me the most about Phillip was his commitment to the project. Not only did he read the novel---which already puts him in a rare class of designer---but he rose to the myriad difficulties of the project's design---each chapter more challenging than the last--with the care, personal investment and attention to detail as if the book were his own.
+>
+> A.V. Bach, Eisenstein's Monster 
+
 --- 
 
 *Eisenstein's Monster* is available on Amazon in print and ebook.

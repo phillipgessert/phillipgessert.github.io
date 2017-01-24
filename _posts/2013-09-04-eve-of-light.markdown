@@ -14,7 +14,7 @@ These are a real treat for me, because they're fun to read—and I have a chance
 
 <figure>
 	<img src="/img/portfolio/eve-of-light/bloodlight-cover.png" alt="">
-	<figcaption>The ebook cover for the prequel / origin story: Bloodlight.</figcaption>
+	<figcaption><p>The ebook cover for the prequel / origin story: Bloodlight.</p></figcaption>
 </figure>
 
 <figure>
@@ -27,19 +27,19 @@ These are a real treat for me, because they're fun to read—and I have a chance
 
 <figure>
 	<img src="/img/portfolio/eve-of-light/bloodlight-jacket.png" alt="">
-	<figcaption>We only set Bloodlight up for ebook, but here's how it might look in print.</figcaption>
+	<figcaption><p>We only set Bloodlight up for ebook, but here's how it might look in print.</p></figcaption>
 </figure>
 
 ## Broken Angels
 
 <figure>
 	<img src="/img/portfolio/eve-of-light/broken-angels-cover.png" alt="">
-	<figcaption>Here's the second book Harambee and I worked together on — the first story in the series proper. I kept it stylistically similar to Bloodlight, but not totally identical.</figcaption>
+	<figcaption><p>Here's the second book Harambee and I worked together on — the first story in the series proper. I kept it stylistically similar to Bloodlight, but not totally identical.</p></figcaption>
 </figure>
 
 <figure>
 	<img src="/img/portfolio/eve-of-light/oroborous.png" alt="">
-	<figcaption>The oroborous is a pertinant symbol in the book, devouring itself endlessly. It also keys to themes of new (though not always wonderful) beginnings.
+	<figcaption><p>The oroborous is a pertinant symbol in the book, devouring itself endlessly. It also keys to themes of new (though not always wonderful) beginnings.</p>
 <p>I kept the same bright color palette I used for the Bloodlight cover, because light is used within the book in a similar way—but the look is very slightly grimier and darker.</p>
 </figcaption>
 </figure>
@@ -47,24 +47,24 @@ These are a real treat for me, because they're fun to read—and I have a chance
 
 <figure>
 	<img src="/img/portfolio/eve-of-light/broken-angels-jacket.png" alt="">
-	<figcaption>This one was set up for both print and ebook—the print version was published using Createspace. Here's a view of the cover and spine…</figcaption>
+	<figcaption><p>This one was set up for both print and ebook—the print version was published using Createspace. Here's a view of the cover and spine…</p></figcaption>
 </figure>
 
 <figure>
 	<img src="/img/portfolio/eve-of-light/broken-angels-back.png" alt="">
-	<figcaption>…and here's a view of the back cover and spine. The yellow bands are meant to introduce a slightly glitchy element to the look of the book—we'd like each book to look a little more dark and 'off' than the last.</figcaption>
+	<figcaption><p>…and here's a view of the back cover and spine. The yellow bands are meant to introduce a slightly glitchy element to the look of the book—we'd like each book to look a little more dark and 'off' than the last.</p></figcaption>
 </figure>
 
 <figure>
 	<img src="/img/portfolio/eve-of-light/interior-1.png" alt="">
-	<figcaption>Here's the layout for the book's interior. It's meant to be transparent, placing the story first—but there are a few style elements pulled in from the cover. The typeface fot the chapter head (Interstate) for instance. And the infinity symbol is a visual nod to the oroborous, and fits the same themes that illustration does.</figcaption>
+	<figcaption><p>Here's the layout for the book's interior. It's meant to be transparent, placing the story first—but there are a few style elements pulled in from the cover. The typeface fot the chapter head (Interstate) for instance. And the infinity symbol is a visual nod to the oroborous, and fits the same themes that illustration does.</p></figcaption>
 </figure>
 
 ## Divinities, Entangled
 
 <figure>
 	<img src="/img/portfolio/eve-of-light/divinities-cover.png" alt="">
-	<figcaption>And here's the third book (second in the proper series)—Divinities, Entangled.</figcaption>
+	<figcaption><p>And here's the third book (second in the proper series)—Divinities, Entangled.</p></figcaption>
 </figure>
 
 <figure>
@@ -76,7 +76,7 @@ These are a real treat for me, because they're fun to read—and I have a chance
 
 <figure>
 	<img src="/img/portfolio/eve-of-light/divinities-jacket.png" alt="">
-	<figcaption>And here it is with the spine. The black band helps the title stand out more, and helps break up the repetition in the skulls. We also used a grey background here, rather than white—we'd like to slowly work our way toward solid black by the series' end.</figcaption>
+	<figcaption><p>And here it is with the spine. The black band helps the title stand out more, and helps break up the repetition in the skulls. We also used a grey background here, rather than white—we'd like to slowly work our way toward solid black by the series' end.</p></figcaption>
 </figure>
 
 ---
