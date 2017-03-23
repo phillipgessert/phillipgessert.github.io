@@ -1,0 +1,678 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"print",
+				"print-only"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"package",
+				"Package Control: Disable Package"
+			],
+			[
+				"notes",
+				"Notes: Inbox"
+			],
+			[
+				"ind",
+				"Notes: Index"
+			],
+			[
+				"tasks",
+				"Set Syntax: Tasks"
+			],
+			[
+				"jekyl",
+				"Jekyll: New post"
+			],
+			[
+				"beaut",
+				"HTMLBeautify"
+			],
+			[
+				"html",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"jekyll",
+				"Jekyll: New post"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Emmet: Go to Matching Pair"
+			],
+			[
+				"go",
+				"Emmet: Go to Matching Pair"
+			]
+		],
+		"width": 602.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/phillipgessert/Documents/Gessert Books/live/phillipgessert.github.io"
+	],
+	"file_history":
+	[
+		"/Users/phillipgessert/Downloads/reisman-stationery/README.md",
+		"/Users/phillipgessert/Dropbox/Notes/pomodoro.TODO",
+		"/Users/phillipgessert/Dropbox/Notes/Client Notes/Kwasi Konadu - Diasporic Africa Press.note",
+		"/Users/phillipgessert/Dropbox/Notes/.brain/Inbox.note",
+		"/Users/phillipgessert/Dropbox/Notes/.archive/Vacation/Password Attempts.note",
+		"/Users/phillipgessert/Downloads/index.md",
+		"/Users/phillipgessert/Downloads/end.html",
+		"/Users/phillipgessert/Dropbox/Notes/Live Projects.note",
+		"/Users/phillipgessert/Dropbox/Notes/pomodoro-small-tasks.TODO",
+		"/Users/phillipgessert/Dropbox/Notes/Script Ideas.note",
+		"/System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/2.0.0/universal-darwin16/rbconfig.rb",
+		"/Users/phillipgessert/Desktop/convert.sh",
+		"/Users/phillipgessert/Dropbox/Notes/Automation.note",
+		"/Users/phillipgessert/Dropbox/Notes/.brain/brain.json",
+		"/Users/phillipgessert/Desktop/pomodoro.TODO",
+		"/Users/phillipgessert/.profile",
+		"/Users/phillipgessert/Documents/Gessert Books/live/mikkelsen-fine-until/ref/edits-12-16-16-endnotes/new-endnotes.md",
+		"/Users/phillipgessert/Documents/Gessert Books/live/mikkelsen-fine-until/ref/edits-12-16-16-endnotes/test.html",
+		"/Users/phillipgessert/Documents/Gessert Books/live/mikkelsen-fine-until/ref/edits-12-16-16-endnotes/new-endnotes-2.md",
+		"/Users/phillipgessert/Documents/Gessert Books/live/mikkelsen-fine-until/old-long.txt",
+		"/Users/phillipgessert/Documents/Gessert Books/live/mikkelsen-fine-until/old.xhtml",
+		"/Users/phillipgessert/Documents/Gessert Books/live/mikkelsen-fine-until/old.tidied.txt",
+		"/Users/phillipgessert/Library/Application Support/Sublime Text 3/Packages/User/Markdown (Standard).sublime-settings",
+		"/Users/phillipgessert/Documents/Gessert Books/live/mikkelsen-fine-until/new-note-refs.txt",
+		"/Users/phillipgessert/Documents/Gessert Books/live/mikkelsen-fine-until/book.typo.xhtml",
+		"/Users/phillipgessert/Documents/Gessert Books/live/mikkelsen-fine-until/diff",
+		"/Users/phillipgessert/Documents/Gessert Books/live/mikkelsen-fine-until/old-note-refs.txt",
+		"/Users/phillipgessert/Library/Application Support/Sublime Text 3/Packages/User/Markdown.sublime-settings",
+		"/Users/phillipgessert/Documents/Gessert Books/live/mikkelsen-fine-until/old-notes.html",
+		"/Users/phillipgessert/Documents/Gessert Books/live/mikkelsen-fine-until/new-notes.html",
+		"/Users/phillipgessert/Documents/Gessert Books/live/mikkelsen-fine-until/tasks.TODO",
+		"/Users/phillipgessert/Documents/Gessert Books/live/mikkelsen-fine-until/css/_pdf.scss",
+		"/Users/phillipgessert/Documents/Gessert Books/live/mikkelsen-fine-until/css/style.scss",
+		"/Users/phillipgessert/Documents/Gessert Books/live/mikkelsen-fine-until/css/_figures.scss",
+		"/Users/phillipgessert/Documents/Gessert Books/live/mikkelsen-fine-until/css/_client-reqs.scss",
+		"/Users/phillipgessert/Documents/Gessert Books/live/mikkelsen-fine-until/css/_variables.scss",
+		"/Users/phillipgessert/Documents/Gessert Books/live/mikkelsen-fine-until/ref/edits/Hi Phillip!-How exciting! Th.textClipping",
+		"/Users/phillipgessert/Documents/Gessert Books/live/mckay-strenuous-life/book.html",
+		"/Users/phillipgessert/Documents/Gessert Books/live/mckay-strenuous-life/css/style.scss",
+		"/Users/phillipgessert/Documents/Gessert Books/live/mckay-strenuous-life/css/_pdf.scss",
+		"/Users/phillipgessert/Documents/Gessert Books/live/pegg-changing-the-game/css/_special-tables.scss",
+		"/Users/phillipgessert/Documents/Gessert Books/live/pegg-changing-the-game/css/_pdf.scss",
+		"/Users/phillipgessert/Documents/Gessert Books/live/pegg-changing-the-game/css/style.scss",
+		"/Users/phillipgessert/Documents/Gessert Books/live/pegg-changing-the-game/book.xhtml",
+		"/Users/phillipgessert/Documents/Gessert Books/live/pegg-changing-the-game/css/_footnote.scss",
+		"/Users/phillipgessert/Downloads/tropico-4/faq.md",
+		"/Users/phillipgessert/Downloads/phillipgessert.github.io/posts.html",
+		"/Users/phillipgessert/Downloads/phillipgessert.github.io/_layouts/page.html",
+		"/Users/phillipgessert/Downloads/phillipgessert.github.io/success.md",
+		"/Users/phillipgessert/Downloads/phillipgessert.github.io/pricing.md",
+		"/Users/phillipgessert/Downloads/phillipgessert.github.io/_includes/header.html",
+		"/Users/phillipgessert/Downloads/phillipgessert.github.io/faq.md",
+		"/Users/phillipgessert/Downloads/phillipgessert.github.io/contact.md",
+		"/Users/phillipgessert/Downloads/phillipgessert.github.io/index.md",
+		"/Users/phillipgessert/Documents/Gessert Books/live/dap-african-unity/.git/config",
+		"/Users/phillipgessert/Desktop/new-site/phillipgessert.github.io/Gemfile",
+		"/Users/phillipgessert/Desktop/new-site/phillipgessert.github.io/index.md",
+		"/Users/phillipgessert/Desktop/phillipgessert.github.io/_site/index.html",
+		"/Users/phillipgessert/Desktop/phillipgessert.github.io/index.md",
+		"/Users/phillipgessert/Desktop/phillipgessert.github.io/success.md",
+		"/Users/phillipgessert/Documents/Gessert Books/live/lantos-greeting-cards/tasks.TODO",
+		"/Users/phillipgessert/Documents/Gessert Books/live/mckay-strenuous-life/tasks.TODO",
+		"/Users/phillipgessert/Documents/Gessert Books/archive/reisman-printables/css/_pdf.scss",
+		"/Users/phillipgessert/Documents/Gessert Books/archive/reisman-printables/css/_teachers.scss",
+		"/Users/phillipgessert/Documents/Gessert Books/archive/reisman-printables/ccj-learning.xhtml",
+		"/Users/phillipgessert/Documents/Gessert Books/archive/reisman-printables/ccq-learning.xhtml",
+		"/Users/phillipgessert/Documents/Gessert Books/archive/reisman-printables/ccss-learning.xhtml",
+		"/Users/phillipgessert/Documents/Gessert Books/archive/reisman-printables/css/style.scss",
+		"/Users/phillipgessert/Documents/Gessert Books/archive/reisman-printables/ccj-activity.xhtml",
+		"/Users/phillipgessert/Documents/Gessert Books/archive/north-age-of-order/css/_pdf.scss",
+		"/Users/phillipgessert/Documents/Gessert Books/live/mckay-strenuous-manual/book.xhtml",
+		"/Users/phillipgessert/Documents/Gessert Books/live/mckay-strenuous-manual/css/style.scss",
+		"/Users/phillipgessert/Documents/Gessert Books/live/mckay-strenuous-manual/css/_images.scss",
+		"/Users/phillipgessert/Documents/Gessert Books/live/mckay-strenuous-manual/css/_pdf.scss",
+		"/Users/phillipgessert/Documents/Gessert Books/live/north-age-of-order/css/_kirkus.scss",
+		"/Users/phillipgessert/Documents/Gessert Books/live/north-age-of-order/css/_pdf.scss",
+		"/Users/phillipgessert/Documents/Gessert Books/live/north-age-of-order/book.xhtml",
+		"/Users/phillipgessert/Documents/Gessert Books/live/north-age-of-order/css/style.scss",
+		"/Users/phillipgessert/Documents/Gessert Books/live/north-age-of-order/README.md",
+		"/Users/phillipgessert/Documents/Gessert Books/live/pegg-changing-the-game/tasks.TODO",
+		"/Users/phillipgessert/Documents/Gessert Books/live/pegg-changing-the-game/css/_shame.scss",
+		"/Users/phillipgessert/Documents/Gessert Books/archive/bach-eisensteins-monster/css/_print.scss",
+		"/Users/phillipgessert/Documents/Gessert Books/live/mikkelsen-fine-until/ref/edits-12-16-16-endnotes/new-endnates.xhtml",
+		"/Users/phillipgessert/Documents/Gessert Books/live/reisman-printables/word-mazes.html",
+		"/Users/phillipgessert/Documents/Gessert Books/live/reisman-printables/word-search.xhtml",
+		"/Users/phillipgessert/Documents/Gessert Books/live/reisman-printables/ref/edits 12-4/test.xhtml",
+		"/Users/phillipgessert/Documents/Gessert Books/live/reisman-website/tasks.TODO",
+		"/Users/phillipgessert/Documents/Gessert Books/live/kersting-disconnected/book.xhtml",
+		"/Users/phillipgessert/Documents/Gessert Books/live/kersting-disconnected/css/style.scss",
+		"/Users/phillipgessert/Documents/Gessert Books/live/richards-far-cry/metadata.xml",
+		"/Users/phillipgessert/Documents/Gessert Books/live/richards-far-cry/css/style.scss",
+		"/Users/phillipgessert/Documents/Gessert Books/live/kersting-disconnected/metadata.xml",
+		"/Users/phillipgessert/Documents/Gessert Books/live/kersting-disconnected/.gitignore",
+		"/Users/phillipgessert/Documents/Gessert Books/live/richards-far-cry/book.typo.xhtml",
+		"/Users/phillipgessert/Documents/Gessert Books/live/pegg-changing-the-game/book.atx.md",
+		"/Users/phillipgessert/Documents/Gessert Books/live/pegg-changing-the-game/extras.html",
+		"/Users/phillipgessert/Documents/Gessert Books/live/pegg-changing-the-game/ref/extras.callouts.md",
+		"/Users/phillipgessert/Documents/Gessert Books/live/pegg-changing-the-game/test.html",
+		"/Users/phillipgessert/Documents/Gessert Books/live/mccarthy-starkiller/css/_pdf.scss",
+		"/Users/phillipgessert/Documents/Gessert Books/live/mccarthy-starkiller/css/style.scss",
+		"/Users/phillipgessert/Documents/Gessert Books/live/mccarthy-starkiller/book.typo.xhtml",
+		"/Users/phillipgessert/Documents/Gessert Books/live/mccarthy-starkiller/tasks.TODO",
+		"/Users/phillipgessert/Documents/Gessert Books/live/eagleson-scheuring-far-shore/book.typo.xhtml",
+		"/Users/phillipgessert/Documents/Gessert Books/live/eagleson-scheuring-far-shore/README.md",
+		"/Users/phillipgessert/Documents/Gessert Books/live/pegg-changing-the-game/svg/charts.scss",
+		"/Users/phillipgessert/Documents/Gessert Books/live/pegg-changing-the-game/svg/charts.html",
+		"/Users/phillipgessert/Desktop/phillipgessert.github.io/_posts/2016-11-12-eisensteins-monster.markdown",
+		"/Users/phillipgessert/Desktop/phillipgessert.github.io/_posts/2016-12-02-thin-mint-memories.markdown",
+		"/Users/phillipgessert/Desktop/phillipgessert.github.io/_posts/2016-12-02-pocket-guide-to-action-art-of-manliness.markdown",
+		"/Users/phillipgessert/Documents/Gessert Books/hold/burdette-songs-2/README.md",
+		"/Users/phillipgessert/Documents/Gessert Books/live/carey-thin-mint/metadata.xml",
+		"/Users/phillipgessert/Documents/Gessert Books/live/carey-thin-mint/css/style.scss",
+		"/Users/phillipgessert/Documents/Gessert Books/live/carey-thin-mint/css/pdf.scss",
+		"/Users/phillipgessert/Documents/Gessert Books/live/carey-thin-mint/tasks.TODO",
+		"/Users/phillipgessert/Documents/Gessert Books/live/carey-thin-mint/book.typo.xhtml",
+		"/Users/phillipgessert/Documents/Gessert Books/live/carey-thin-mint/book.xhtml",
+		"/Users/phillipgessert/Documents/Gessert Books/live/carey-thin-mint/README.md",
+		"/Users/phillipgessert/Documents/Gessert Books/live/mckay-pocket-guide/css/_pdf.scss",
+		"/Users/phillipgessert/Documents/Gessert Books/live/mckay-pocket-guide/css/style.scss",
+		"/Users/phillipgessert/Documents/Gessert Books/live/mckay-pocket-guide/book.xhtml",
+		"/Users/phillipgessert/Documents/Gessert Books/live/mckay-pocket-guide/tasks.TODO",
+		"/Users/phillipgessert/Documents/Gessert Books/live/angelo-magnus-patricius/ref/body-matter-dirty.md",
+		"/Users/phillipgessert/Documents/Gessert Books/live/carey-thin-mint/ref/gone-not-forgotten.html",
+		"/Users/phillipgessert/Documents/Gessert Books/live/angelo-magnus-patricius/book.md",
+		"/Users/phillipgessert/Documents/Gessert Books/live/angelo-magnus-patricius/ref/book.md",
+		"/Users/phillipgessert/Documents/Gessert Books/live/bach-eisensteins-monster/css/_print.scss",
+		"/Users/phillipgessert/Documents/Gessert Books/hold/mcswain-four-color/README.md",
+		"/Users/phillipgessert/Documents/Gessert Books/hold/mcswain-four-color/book.md"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"*",
+			"nellie.mckesson/bookmaker",
+			"-arch i386",
+			"-arch",
+			"\t",
+			" website <http",
+			" (http.*?)\\n",
+			": replace ",
+			"</span>",
+			"<span id=\"OLE.*?>",
+			": replace ",
+			"   class=\"anchor\"></span></span>",
+			"<span id=\"OLE.*?\"\\n ",
+			"<span id=\"OLE.*?>",
+			" website <http",
+			" (http.*?)\\n",
+			" website <http",
+			" (http.*?)\\n",
+			"( http.*?)\\n",
+			" http.*?",
+			"126",
+			"footnoteRef",
+			"163",
+			"cause there can be an overlap in different types of pro",
+			"footnoteRef",
+			"70%",
+			"footnoteRef",
+			"fn150",
+			"footnoteRef",
+			"126",
+			"Chris Woodi",
+			"footnoteRef",
+			"<!--",
+			"Sensory development issues can affect a child’s abil",
+			"footnoteRef",
+			"fnref153",
+			"fnref",
+			"footnoteRef",
+			"fnref",
+			"<td><p>(.*?)</p></td>",
+			"&nbsp;",
+			"<span class=\"caps\">(.*?)</span>",
+			"<span class=\"caps\">(.*)</span>",
+			"#fn171",
+			"#fn172",
+			"<span class=\"caps\">(.*)</span>",
+			"fnref14\"",
+			"id=\"fnref14\"",
+			"</span>",
+			"<span class=\"caps\">(.*)</span>",
+			"span",
+			"&nbsp;",
+			"[^1]",
+			"<span class=\"no-print\">↩</span>",
+			"footnotes",
+			"h2",
+			"organization was created to support dyslexic entrepreneurs, and to “change the story of dyslexia, dyscalculia, ADHD and similar labels into one of strengths, not shame. With support, all members of DEN will be able to own who they are, understand it and, best of all, love it.”</p>\n\t\t<p>The DEN meeting was studded with successful people, including Charles Schwab. Each of them talked about how difficult school had been. The thing that touched me most, however, was a when a panel of entrepreneurs was asked if they had anything else to tell conference attendees. One panelist, a successful out-of-the-box thinker with a string of companies linked to his name, said “I wish my mom had spent less time trying to fix me, and more time letting me make things in the basement.”</p>\n\t\t<p>Just let that sink in for a minute.</p>\n\t\t<p>No matter what type of learning difference or brain uniqueness your child is experiencing, I hope that this book helps you set up structures and strategies that will let you support and protect your child during the school years.</p>\n\t\t<p>I also hope this book reminds you to “seize the day.” Childhood passes by quickly, and you want your child’s memories to include good things: interests, joy, and accomplishments. You can help set up life so that he or she can have protected areas of fun and success.</p>\n\t\t<p>You are a wonderfully conscientious, hard-working, loving parent. Remember to question things that make your child miserable, and trust yourself to push back or look for options as needed. Very little of our educational system is set in stone, and there are many different ways to learn.</p>",
+			"two",
+			"glo",
+			"notes",
+			"foot",
+			"notes",
+			"<h5>",
+			"sideb",
+			"table",
+			"ul ",
+			"li class=\"toc-chapter>",
+			"TOC",
+			"li {",
+			"print-only",
+			"the Strenuous Life forum",
+			"etc",
+			"the call",
+			"the Strenuous Life",
+			"sidebar",
+			"compress",
+			"Familias",
+			"no-indent",
+			"d identify 3 different s",
+			"barbell",
+			"yello",
+			"page",
+			"dt",
+			"margin-top: $leading / 2;",
+			"dd",
+			"dl",
+			"break",
+			"got those bas",
+			"outdoor",
+			"img",
+			"<h2>(.*) ",
+			"\\n<h2",
+			"<p><strong>(.*)</strong></p>",
+			"<p><strong>",
+			"<p><strong> </strong></p>",
+			"<p><strong>",
+			"&quot;",
+			"<p>&quot;",
+			"<p> </p>",
+			"<p><strong>(.*Requirements)</strong></p>\\n",
+			"<p><strong><em>(.*Badge)</em></strong></p>\\n",
+			"<p><strong><em>",
+			"text-justify",
+			"p {",
+			"float",
+			"h2",
+			"blockq",
+			"h1",
+			"auth",
+			"h2",
+			"h1",
+			"<p>***</p>",
+			"<p>(CHAPTER .*)</p>",
+			"<p>CHAPTER ",
+			"<span style=\"font-variant: small-caps;\">",
+			"ployment markets over the coming twent",
+			"referential access to scarce resources",
+			"table",
+			"landscap",
+			"prince-",
+			"capt",
+			"h1",
+			"udy of contract management style",
+			"y to unwind somethin",
+			"eader of your busin",
+			"h3 +",
+			"oeing-scrambles-as-toyota-triumph",
+			"Sudden_unintended_acceleration"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"phillipgessert/Desktop",
+			"",
+			" <http",
+			" <$1>\\n",
+			": ",
+			"",
+			": ",
+			"",
+			" <http",
+			" <$1>\\n",
+			" <$1>",
+			" <http",
+			" <$1>",
+			"<$1>",
+			"<td>$1</td>",
+			" ",
+			"$1",
+			"",
+			"$1",
+			" ",
+			"↩",
+			"li class=\"toc-chapter\">",
+			"the Gymnasium",
+			"<img src=\"media/svg/$1.svg\" alt=\"$1 Badge\" />\\n<h2>$1 ",
+			"<h4>$1</h4>",
+			"",
+			"&rdquo;",
+			"<p>&ldquo;",
+			"",
+			"<h3>$1</h3>\\n",
+			"<h2>$1</h2>\\n",
+			"<hr />",
+			"<h2>$1</h2>",
+			"<span class=\"caps\">",
+			"<div class=\"toptips\"><h4 id=\"top",
+			"<div class=\"toptips\">\\n<h4 id=\"top",
+			"<div class=\"hide figure",
+			"&mdash;",
+			" <span class=\"nobreak\">",
+			"height",
+			"width",
+			"<td>",
+			"<th>",
+			"<tr>",
+			"",
+			"<table>",
+			"</span></em>",
+			"&nbsp;<span class=\"no-hyphen\">$1</span></p>",
+			"&mdash;",
+			"Girl Scouts",
+			"\\n\\n--- \\n\\n",
+			"",
+			"## $1\\n\\n",
+			"## $1\\n",
+			"### Chapter $1\\n\\n",
+			"### $1\\n\\n",
+			"### $1\\n",
+			"### Chapter $1\\n",
+			"### Chapter $1",
+			"## PART",
+			"$2 $1",
+			"### ",
+			"",
+			" ",
+			"\\n\\n\\:   ",
+			"\\n\\n\\:\\s\\s\\s",
+			"## ",
+			"\\##$1",
+			"\\#$1",
+			"\\#($1)",
+			"\\n\\#($1)\\d\\n\\n",
+			"\\n\\#\\d\\n\\n",
+			"<span class=\"caps\">",
+			"jpg\"",
+			"<div class=\"figure\">",
+			"<hr />",
+			"</h2>",
+			"<h2>",
+			"",
+			"</dt>\\n<dd>",
+			"</dt><dd>(",
+			"</dd>",
+			"",
+			"<em>Cows Can’t Jump</em>",
+			"[^1]",
+			"[^15]",
+			"[^14]",
+			"[^13]",
+			"[^12]",
+			"[^11]",
+			"[^10]",
+			"[^9]",
+			"[^8]",
+			"[^7]",
+			"[^6]",
+			"[^5]",
+			"[^4]",
+			"[^3]",
+			"[^2]",
+			"",
+			"'",
+			"\\n",
+			"",
+			"media/placeholder.jpg",
+			"",
+			"\\n",
+			"",
+			"![](media/",
+			"![](media/addams-pullman",
+			"</a></li>",
+			"",
+			"</div>",
+			"<div class=\"sidebar\">",
+			"Grammy do…",
+			"<span class=\"goback\">↩</span>",
+			"h3",
+			"src=\"media",
+			"]: ",
+			"[^",
+			"</h3>",
+			"<h3>",
+			"h2",
+			"</div>",
+			"<div class=\"figure\">",
+			"\" />",
+			"<img src",
+			"<img",
+			"</div>"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.jotter":
+	{
+		"height": 112.0
+	},
+	"pinned_build_system": "",
+	"project": "phillipgessert.github.io.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "phill",
+		"selected_items":
+		[
+			[
+				"phill",
+				"~/Documents/Gessert Books/Sublime Projects/phillipgessert.github.io.sublime-workspace"
+			],
+			[
+				"git",
+				"~/Documents/Gessert Books/Sublime Projects/phillipgessert.github.io.sublime-workspace"
+			],
+			[
+				"",
+				"~/Documents/Gessert Books/live/zamarripa-spectacle-of-let/zamarripa-spectacle-of-let.sublime-project"
+			],
+			[
+				"dap",
+				"~/Documents/Gessert Books/live/dap-african-unity/dap-african-unity.sublime-project"
+			],
+			[
+				"zam",
+				"~/Documents/Gessert Books/live/zamarripa-spectacle-of-let/zamarripa-spectacle-of-let.sublime-project"
+			],
+			[
+				"mck",
+				"~/Documents/Gessert Books/live/mckay-pocket-guide/mckay-pocket-guide.sublime-project"
+			],
+			[
+				"koel",
+				"~/Documents/Gessert Books/live/koelnmesse-anuga-2017/koelnmesse-anuga-2017.sublime-project"
+			],
+			[
+				" ",
+				"~/Documents/Gessert Books/live/dap-laveist-legacy-of-the-crossing/dap-legacy-of-the-crossing.sublime-project"
+			],
+			[
+				"zam\t",
+				"~/Documents/Gessert Books/live/zamarripa-spectacle-of-let/zamarripa-spectacle-of-let.sublime-project"
+			],
+			[
+				"dap l",
+				"~/Documents/Gessert Books/live/dap-laveist-legacy-of-the-crossing/dap-legacy-of-the-crossing.sublime-project"
+			],
+			[
+				"lant",
+				"~/Documents/Gessert Books/live/lantos-greeting-cards/lantos-greeting-cards.sublime-project"
+			],
+			[
+				"make",
+				"~/Documents/Gessert Books/live/gessertbooks-make-repo/gessertbooks-make-repo.sublime-project"
+			],
+			[
+				"mikk",
+				"~/Documents/Gessert Books/live/mikkelsen-fine-until/mikkelsen-fine-until.sublime-project"
+			],
+			[
+				"dap afri",
+				"~/Documents/Gessert Books/live/dap-african-unity/dap-african-unity.sublime-project"
+			],
+			[
+				"mckay",
+				"~/Documents/Gessert Books/live/mckay-strenuous-life/mckay-strenuous-life.sublime-project"
+			],
+			[
+				"pegg",
+				"~/Documents/Gessert Books/live/pegg-changing-the-game/pegg-changing-the-game.sublime-project"
+			],
+			[
+				"mcka",
+				"~/Documents/Gessert Books/Sublime Projects/mckay-strenuous-life.sublime-workspace"
+			],
+			[
+				"d",
+				"~/Documents/Gessert Books/live/dap-black-women-of-brazil/dap-black-women-of-brazil.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 231.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
