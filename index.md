@@ -35,6 +35,10 @@ I work tirelessly to correct any issues you may encounter. If you have any sort 
 
 ---
 
+> Gessert Books is far and away one of the best companies in the literary world that I've had the opportunity to work with. Diligent, creative, attentive, and immeasurably patient, Phillip Gessert is an absolute pleasure to work with, and I highly recommend him and his company to anyone interested in superior, professional grade interior formatting.
+> 
+> Sebastian Wolfe, I Saw the Fire
+
 >What impressed me the most about Phillip was his commitment to the project. Not only did he read the novel---which already puts him in a rare class of designer---but he rose to the myriad difficulties of the project's design---each chapter more challenging than the last--with the care, personal investment and attention to detail as if the book were his own.
 >
 > A.V. Bach, Eisenstein's Monster 
