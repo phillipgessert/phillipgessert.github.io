@@ -49,6 +49,14 @@ I typically begin with a set of several hundred records, along with a fairly lar
     <figcaption><p>And the book was rounded out with some helpful information about the area.</p></figcaption>
 </figure>
 
+<figure>
+    <img src="/img/portfolio/ids-2017/ids-print-1.jpg" alt="The book on the presses (1/4).">
+    <img src="/img/portfolio/ids-2017/ids-print-2.jpg" alt="The book on the presses (2/4).">
+    <img src="/img/portfolio/ids-2017/ids-print-3.jpg" alt="The book on the presses (3/4).">
+    <img src="/img/portfolio/ids-2017/ids-print-4.jpg" alt="The book on the presses (4/4).">
+    <figcaption><p>The book on the presses.</p></figcaption>
+</figure>
+
 ---
 
 If your organization has a need for any sort of directory, either internally or for an event, please feel free to [contact me](/contact/) for a quote.
