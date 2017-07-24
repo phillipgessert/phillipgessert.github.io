@@ -7,7 +7,7 @@ tags:
 - drop caps
 ---
 
-I had a wonderful chance to handle the layout for Ryan McSwain's *Four Color Bleed*, a comic book themed novel featuring custom drop caps and a number of visually interesting bio pages.
+Loved the chance to handle the layout for Ryan McSwain's *Four Color Bleed*, a comic book themed novel featuring custom drop caps and a number of visually interesting bio pages.
 
 ---
 
