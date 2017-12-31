@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Gessert Books | Book Formatting, Design, Typesetting, and Typography
+title: Gessert Books | Book formatting & Design, typesetting & typography
 ---
 
 <img src="img/me.jpg" class="avatar">
