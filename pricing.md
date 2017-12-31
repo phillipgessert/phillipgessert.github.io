@@ -31,9 +31,9 @@ Finished files are provided as print-ready PDF.
 
 | Word Count       | Ebook **or** Print (1 format) | Ebook **and** Print (bundle) |
 | :-               | :-                            | :-                           |
-| Under 80k        | $175                          | $225                         |
-| 80,000--160,000  | $225                          | $275                         |
-| 160,001--240,000 | $250                          | $300                         |
+| Under 80k        | $210                          | $270                         |
+| 80,000--160,000  | $270                          | $330                         |
+| 160,001--240,000 | $300                          | $360                         |
 | Over 240k [^2]   | Contact for Quote             | Contact for Quote            |
 
 ### Non-fiction & Verse
@@ -53,7 +53,7 @@ No additional fees will apply for corrections of formatting errors on my part.
 - Tables and Lists: $25 per 10.
 
 
-Prices are current as of 1/24/17 and are subject to change.
+Prices are current as of 1/1/18 and are subject to change.
 
 [^1]: Additional fees may apply for atypical fiction layouts, such as epistolary works.
 

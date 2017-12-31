@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Gessert Books | Typography, Typesetting & Book Design
+title: Gessert Books | Book Formatting, Design, Typesetting, and Typography
 ---
 
 <img src="img/me.jpg" class="avatar">
 
-<img src="img/caps-i.gif" class="dropcap">m Phillip Gessert; and I’m a book designer, typesetter and print/ebook formatter in Madison, WI. I began building books full time in 2011, and am especially passionate about page typography. I pride myself on building books to the highest standard of quality, both aesthetically and functionally.
+<img src="img/caps-i.gif" class="dropcap">m Phillip Gessert. I’m a book designer, typesetter and print/ebook formatter. I began building books full time in 2011, and am especially passionate about page typography. I pride myself on building books to the highest standard of quality, both aesthetically and functionally.
 
 I provide fully validated ePub and MOBI files, suitable for publishing on the Kindle Store and other retailers. All ebooks are created using hand-coded HTML & CSS, and take the unique considerations for different devices into account. The books are built to be flexible and render predictably across a range of e-readers. And I use traditional and classical typographical principles to give the books an appealing look.
 
