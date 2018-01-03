@@ -31,11 +31,16 @@
             {% include icon-facebook.html username=site.facebook_username %}
           </li>
           {% endif %}
+           {% if site.reedsy_username %}
+          <li>
+            {% include icon-reedsy.html username=site.reedsy_username %}
+          </li>
+          {% endif %}
         </ul>
       </div>
 
       <div class="footer-col footer-col-3">
-        <p>{{ site.description }} Also hireable on <a href="https://reedsy.com/phillip-gessert" target="_blank">Reedsy</a>.</p>
+        <p>{{ site.description }} Also available on <a href="http://https://reedsy.com/phillip-gessert" target="_blank">reedsy.com</a>.</p>
       </div>
     </div>
 
