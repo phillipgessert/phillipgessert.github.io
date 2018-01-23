@@ -46,14 +46,14 @@ Additional fees apply for correction of content errors (typos, capitalization, g
 
 No additional fees will apply for corrections of formatting errors on my part.
 
-- Rush service: $50 per 80,000 words.[^3]
+- Rush service: $60 per 80,000 words.[^3]
 - Content edits: $1 per individual edit.[^4] 
-- Images (provided by you): $25 per 10 images.
+- Images (provided by you): $30 per 10 images.
 - Images (created or sourced by me): Contact for quote.
-- Tables and Lists: $25 per 10.
+- Tables and Lists: $30 per 10.
 
 
-Prices are current as of 1/1/18 and are subject to change.
+Prices are current as of 1/22/18 and are subject to change.
 
 [^1]: Additional fees may apply for atypical fiction layouts, such as epistolary works.
 
