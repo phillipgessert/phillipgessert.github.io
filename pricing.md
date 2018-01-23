@@ -61,4 +61,4 @@ Prices are current as of 1/22/18 and are subject to change.
 
 [^3]: Rush service availability is based on overall production schedule.
 
-[^4]: Your first ten edits are free. An additional $25 per format, per round of edits applies for edits needed after delivery. You will not be charged for corrections to errors I've made.
+[^4]: Your first ten edits are free. An additional $30 per format, per round of edits applies for edits needed after delivery. You will not be charged for corrections to errors I've made.
