@@ -11,8 +11,6 @@ I provide fully validated ePub and MOBI files, suitable for publishing on the Ki
 
 I also provide PDF files suitable for print. I’m happy to build to Createspace or Ingram specifications, or simply build to industry-standard print-readiness. I use my pre-press experience to preflight and prepare PDF files that most any print service provider would be delighted to receive.
 
-Custom book covers are also available.
-
 ---
 
 ### Why Choose Me?
