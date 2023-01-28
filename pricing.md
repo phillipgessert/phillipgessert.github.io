@@ -17,7 +17,7 @@ Prices assume a manuscript in clean Word DOCX format. Additional fees apply for 
 
 All ebooks are handcoded and built for quality across devices. They're optimized for size and performace, and are made with classic typographical principles in mind.
 
-They include working HTML and logical Tables of Contents, all appropriate metadata, page breaks per-chapter, and every convention expected of a well-formed ebook. Finished files are provided in Kindle and ePub formats.
+They include working HTML and logical Tables of Contents, all appropriate metadata, page breaks per-chapter, and every convention expected of a well-formed ebook. Finished files are provided in ePub format.
 
 ## Print books
 
@@ -31,9 +31,9 @@ Finished files are provided as print-ready PDF.
 
 | Word Count       | Ebook **or** Print (1 format) | Ebook **and** Print (bundle) |
 | :-               | :-                            | :-                           |
-| Under 80k        | $175                          | $225                         |
-| 80,000--160,000  | $225                          | $275                         |
-| 160,001--240,000 | $250                          | $300                         |
+| Under 80k        | $250                          | $300                         |
+| 80,000--160,000  | $300                          | $350                         |
+| 160,001--240,000 | $325                          | $375                         |
 | Over 240k [^2]   | Contact for Quote             | Contact for Quote            |
 
 ### Non-fiction & Verse
@@ -46,19 +46,17 @@ Additional fees apply for correction of content errors (typos, capitalization, g
 
 No additional fees will apply for corrections of formatting errors on my part.
 
-- Rush service: $50 per 80,000 words.[^3]
-- Content edits: $1 per individual edit.[^4] 
-- Images (provided by you): $25 per 10 images.
+- Rush service: $75 per 80,000 words.[^3]
+- Content revisions: First round free, subsequent rounds $35/ea.
+- Images (provided by you): $35 per 10 images.
 - Images (created or sourced by me): Contact for quote.
-- Tables and Lists: $25 per 10.
+- Tables and Lists: $35 per 10.
 
 
-Prices are current as of 1/24/17 and are subject to change.
+Prices are current as of 1/28/23 and are subject to change.
 
 [^1]: Additional fees may apply for atypical fiction layouts, such as epistolary works.
 
 [^2]: Or omnibus, anthology, or multi-book box set.
 
 [^3]: Rush service availability is based on overall production schedule.
-
-[^4]: Your first ten edits are free. An additional $25 per format, per round of edits applies for edits needed after delivery. You will not be charged for corrections to errors I've made.

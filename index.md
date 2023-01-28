@@ -5,9 +5,9 @@ title: Gessert Books | Book formatting, design, typesetting & typography
 
 <img src="img/me.jpg" class="avatar">
 
-<img src="img/caps-i.gif" class="dropcap">m Phillip Gessert. I’m a book designer, typesetter and print/ebook formatter. I began building books full time in 2011, and am especially passionate about page typography. I pride myself on building books to the highest standard of quality, both aesthetically and functionally.
+<img src="img/caps-i.gif" class="dropcap" alt="I">m Phillip Gessert. I’m a book designer, typesetter and print/ebook formatter. I began building books full time in 2011, and am especially passionate about page typography. I pride myself on building books to the highest standard of quality, both aesthetically and functionally.
 
-I provide fully validated ePub and MOBI files, suitable for publishing on the Kindle Store and other retailers. All ebooks are created using hand-coded HTML & CSS, and take the unique considerations for different devices into account. The books are built to be flexible and render predictably across a range of e-readers. And I use traditional and classical typographical principles to give the books an appealing look.
+I provide fully validated ePub files, suitable for publishing on the Kindle Store and other retailers. All ebooks are created using hand-coded HTML & CSS, and take the unique considerations for different devices into account. The books are built to be flexible and render predictably across a range of e-readers. And I use traditional and classical typographical principles to give the books an appealing look.
 
 I also provide PDF files suitable for print. I’m happy to build to Createspace or Ingram specifications, or simply build to industry-standard print-readiness. I use my pre-press experience to preflight and prepare PDF files that most any print service provider would be delighted to receive.
 
