@@ -13,7 +13,7 @@ The best way to contact me is by [email](mailto:phillip@gessertbooks.com). I'm v
 
 If you've got a finished manuscript, please feel free to send it via email---it will make it easier to discuss your project, and is usually the first thing I ask for. Your manuscript is kept completely private and is not shared with anyone.
 
-I don't discuss project details by phone, IM or Skype. No exceptions, please don't insist.
+I don't discuss project details by phone or Zoom.
 
 <form action="https://formspree.io/phillip@gessertbooks.com"
 	method="POST">
