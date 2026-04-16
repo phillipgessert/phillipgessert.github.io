@@ -25,7 +25,7 @@ I prefer **Microsoft Word** format, but can also accept Apple Pages, Google Docs
 
 # What file formats do you provide?
 
-I provide fully tested and validated **ePub** and **MOBI** files for ebook, and print-ready **PDF** for print. 
+I provide fully tested and validated **EPUB** files for ebook, and print-ready **PDF** for print. 
 
 # How should I set up my manuscript?
 
