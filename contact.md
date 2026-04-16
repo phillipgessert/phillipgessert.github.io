@@ -9,13 +9,13 @@ permalink: /contact/
     <h1 class="post-title">Contact</h1>
   </header>
 
-The best way to contact me is by [email](mailto:phillip@gessertbooks.com). I'm very responsive and usually reply within one working day.
+The best way to contact me is by [email](mailto:phillip@gessertbooks.com). I'm very responsive and usually reply by the following business day.
 
 If you've got a finished manuscript, please feel free to send it via email---it will make it easier to discuss your project, and is usually the first thing I ask for. Your manuscript is kept completely private and is not shared with anyone.
 
 I don't discuss project details by phone or Zoom.
-
-<form action="https://formspree.io/phillip@gessertbooks.com"
+{% comment %}
+<form action="https://formspree.io/f/phillip@gessertbooks.com"
 	method="POST">
 	
 		<label for="name">Name:</label>
@@ -31,3 +31,5 @@ I don't discuss project details by phone or Zoom.
 	<input type="hidden" name="_next" value="http://www.gessertbooks.com/success/" />
 	<input type="submit" class="button" value="Contact Me">
 </form>
+
+{% endcomment %}
